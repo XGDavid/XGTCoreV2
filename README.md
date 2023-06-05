@@ -3,10 +3,50 @@ A new version of XGTCore with @sLeeD
 
 
 7-5-2023 | incerc sa conectez github-ul cu phpstorm :D
+5-6-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived
 
 
+> **Clan System** (5-6-2023)
+  Minim level 10-15 pentru clan.
+  Minim level 3 pentru a primi invite, clanul o aiba 10 sloturi cu tot cu liderul.
 
->  **Fisher**
+  ### Clan Levels
+    Rank 1: din start | clan deposit(silver coins 50.000), 0 Clan Power
+    Rank 2: 50.000 clan XP, 20.000 clan silver coins, minim 3 membri, 100 Clan Power | unlock: clan perks tier 1, clan missions, clan wars, clan deposit(silver coins +5.000, gold coins +100)
+    Rank 3: 75.000 clan XP, 50.000 clan silver coins, 80 clan gold coins, minim 5 membri, 300 Clan Power | unlock: clan job, clan perks tier 2, clan missions +5, clan deposit(silver coins +5.000, gold coins +10)
+    Rank 4: 100.000 clan XP, 75.000 clan silver coins, 120 clan gold coins, minim 5 membri, 500 Clan Power | unlock: clan perks tier 3, clan missions +5, clan deposit(silver coins +5.000, gold coins +10), +3 sloturi 
+    Rank 5: 200.000 clan XP, 150.000 clan silver coins, 200 clan gold coins, minim 5 membri, 1000 Clan Power | unlock: clan perks tier 4, clan missions +5, clan deposit(silver coins +5.000, gold coins +10)
+
+  ### Clan Perks
+    - Tier 1: Worker Perk(+3% jobboost), Food Perk(saturation, in zona teritoriului), Speed Perk(speed I, 15 blockuir de la Can Home), Glowing Perk(in zona teritoriului)
+    - Tier 2: Quests Perk(+5% reward daily quests), Worker Perk 2(+8% jobboost), Heal Regen Perk(regeneration I 3 sec, 15 blockuri de la Clan Home), Haste Perk(haste I, in zona teritoriulului)
+    - Tier 3: Speed Perk 2(speed 2, in zona teritoriului), Haste 2(haste II, in zona teritoriului), Flyer Perk(in zona teritorilui)
+    - Tier 4: Strength Perk(in zona teritoriului, strength I 2 sec), Poison Perk(daca intra un inamic pe teritoriu sa aiba o sansa de 30% sa primeasca poison 15 secunde, cooldown 1min)
+
+  ### Clan Job
+    Liderul poate sa si aleaga un Job de pe server care sa ii reprezinte clanul.
+    - +6-10%(in functie de rankul clanului) job boost la jobul respectiv.
+    - +5-10%(in functie de rankul clanului) XP, la practicarea jobului
+    - +10-20%(in functie de rankul clanului) job rewards(silver coins) care merg in seiful clanului de la jobul respectiv(default 100%)
+
+  ### Clan Deposit
+    Depozitul creste in functie de rankul clanului(gratis) sau cumparand cu clan gold coins din clan shop de catre lider.
+    Fiecare player poate depozita Gold Coins, iar Silver Coins urile se pot face doar din job(cand playerul face un job, 100% din totalul jobului intra si in depozitul clanului, fara ca el sa piarda ceva)
+
+  ### Clan Wars
+    In fiecare duminica, de la o anumita ora, liderul impreuna cu membrii online, pot sa participe la Clan Wars.
+    O arena, unde Fiecare clan este impartit intr o zona, ei au la dispozitie 10 minute sa mineze si sa si faca niste iteme/mini baza, iar dupa acele 10 minute incepe bataie, pana la LSM. Clanul ultimului player, castiga.
+    Alta varianta, tot o arena, 10 minute loot, dupa fiecare clan are un HP de 30, de fiecare data cand un jucator moare din acel clan => -1hp clan. 0hp clan = out, clanul care ramane cu hp castiga.
+    Rewards: ....
+
+  ### Clan Shop
+    Liderul poate cumpara cu Clan Gold Coins si cu Clan Silver Coins obiecte din clan shop.
+    - +2 Clan Slot
+    - Deposit Upgrade(50.000 silver coins, 25 gold coins)
+    - +5% mai mult silver coins de la job uri(max 25%)
+    - +5% mai mult XP de la playeri(max 25%)
+
+>  **Fisher** (7-5-2023)
 
   ### __**Rod's**__
 

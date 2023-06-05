@@ -1,7 +1,7 @@
 # XGTCoreV2
 A new version of XGTCore with @sLeeD
 
-
+3-2-2023 | Start
 7-5-2023 | incerc sa conectez github-ul cu phpstorm :D
 5-6-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived
 

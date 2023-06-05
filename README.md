@@ -6,7 +6,7 @@ A new version of XGTCore with @sLeeD
 5-6-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived
 
 
-> **Clan System** (5-6-2023)
+> ## **Clan System** (5-6-2023)
   Minim level 10-15 pentru clan.
   Minim level 3 pentru a primi invite, clanul o aiba 10 sloturi cu tot cu liderul.
 
@@ -46,7 +46,7 @@ A new version of XGTCore with @sLeeD
     - +5% mai mult silver coins de la job uri(max 25%)
     - +5% mai mult XP de la playeri(max 25%)
 
->  **Fisher** (7-5-2023)
+> ## **Fisher** (7-5-2023)
 
   ### __**Rod's**__
 

@@ -35,6 +35,7 @@ A new version of XGTCore with @sLeeD
 - [ ] Kits
 - [ ] Experiments(echants)
 - [ ] Staff
+- [ ] Dice
 
 ***
 
@@ -155,3 +156,32 @@ A new version of XGTCore with @sLeeD
 | Durability    | 80     | 
 | Advenced Frag | 0      | 
 | Expert Frag   | 0      | 
+
+> ## **Farmer** (12-6-2023)
+
+Jobul e impartit in mai multe categori:
+
+1. Cowboy
+   - Minim level 1, tier 1 Farmer
+   - Trebuie sa culegi Hey Bale(6) de pe camp, apoi dupa ce vrei primi slowness, trebuie sa le duci in hamber la Vaca. Dupa ce astepti 1/2 minute, trebuie sa mergi in subsolul hambarului, de unde minezi pentru a obtine o galeata, dupa ce iei galeta, poti mulge vaca
+   - Undeva la 230-350 pe tura, depinde de tier
+2. Fruiter
+   - Minim level 25, tier 2  Farmer
+   - Ai nevoie de o galeata, pe care o faci in subsol, dupa ce ai galeata, poti merge la pomi si sa culegi fructele(25), poti vinde
+   - Undeva la 50-130 pe tura, depinde de tier, daca faci 25/25 ai sansa de 2%-3% la gold(2-6)
+
+### Tiers
+    Tier I
+      - Practice Job
+    Tier II
+      - 135.000 silver coins
+      - Fruiter
+    Tier III
+      - 200.000 silver coins
+      - +1% sanse gold
+
+### Bucket
+
+      Poti face rost de galeata in orice moment in care ai jobul de Farmer si Slotul pentru galeata liber. 
+      Trebuie sa minezi 10-20 blocuri din subsolul hambarului pentru a obtine galeata.
+

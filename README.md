@@ -5,6 +5,39 @@ A new version of XGTCore with @sLeeD
 7-5-2023 | incerc sa conectez github-ul cu phpstorm :D\
 5-6-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived
 
+***
+
+> ## **Todo** 
+
+- [x] Systems
+- [x] Text
+- [x] Notifications
+- [x] Economy
+- [x] Level
+- [x] Settings
+- [x] Tickets
+- [x] Groups
+- [x] Jobs
+- [ ] Clan
+- [ ] Database update
+- [ ] Teleport System Update
+- [ ] Old Commands
+- [ ] Ranks Update
+- [ ] Gold Shop
+- [ ] Dungeons
+- [ ] Daily Quests
+- [ ] Player Activity(online time)
+- [ ] Battlepas
+- [ ] Storymode
+- [ ] Crates
+- [ ] Vote
+- [ ] Events
+- [ ] Kits
+- [ ] Experiments(echants)
+- [ ] Staff
+
+***
+
 
 > ## **Clan System** (5-6-2023)
   Minim level 10-15 pentru clan.

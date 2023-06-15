@@ -3,7 +3,8 @@ A new version of XGTCore with @sLeeD
 
 3-2-2023 | Start\
 7-5-2023 | incerc sa conectez github-ul cu phpstorm :D\
-5-6-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived
+5-6-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived\
+16-6-2023 | Mare update la baza de date
 
 ***
 
@@ -18,10 +19,10 @@ A new version of XGTCore with @sLeeD
 - [x] Tickets
 - [x] Groups
 - [x] Jobs
-- [ ] Clan
-- [ ] Database update
+- [ ] Clan | working
+- [x] Database update(player data, clan data, jobs data) | 16-06-2023
 - [ ] Teleport System Update
-- [ ] Old Commands
+- [ ] Old Commands Update
 - [ ] Ranks Update
 - [ ] Gold Shop
 - [ ] Dungeons
@@ -33,9 +34,9 @@ A new version of XGTCore with @sLeeD
 - [ ] Vote
 - [ ] Events
 - [ ] Kits
-- [ ] Experiments(echants)
+- [ ] Experiments(enchants)
 - [ ] Staff
-- [ ] Dice
+- [ ] Gambling
 
 ***
 

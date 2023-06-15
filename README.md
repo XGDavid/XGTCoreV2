@@ -19,6 +19,7 @@ A new version of XGTCore with @sLeeD
 - [x] Tickets
 - [x] Groups
 - [x] Jobs
+- [x] Logs
 - [ ] Clan | working
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
 - [ ] Teleport System Update

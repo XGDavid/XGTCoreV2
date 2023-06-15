@@ -37,6 +37,7 @@ A new version of XGTCore with @sLeeD
 - [ ] Experiments(enchants)
 - [ ] Staff
 - [ ] Gambling
+- [ ] Achievements
 
 ***
 

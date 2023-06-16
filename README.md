@@ -1,5 +1,5 @@
 # XGTCoreV2
-A new version of XGTCore with @sLeeD
+A new version of XGTCore with @sLeeD[github.com/xXGeorgeXDR0]
 
 3-2-2023 | Start\
 7-5-2023 | incerc sa conectez github-ul cu phpstorm :D\

@@ -1,10 +1,15 @@
 # XGTCoreV2
-A new version of XGTCore with @sLeeD[github.com/xXGeorgeXDR0]
+A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)
+
+[GoldenCraft Playlist](https://www.youtube.com/watch?v=EAE7p1YhjEY&list=PLdLn7VdXmaO-qypbTS1BmHXqJdtkwrbXa)
+
+[GoldenCraft Discord](https://discord.gg/uNexe75)
 
 3-2-2023 | Start\
 7-5-2023 | incerc sa conectez github-ul cu phpstorm :D\
 5-6-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived\
 16-6-2023 | Mare update la baza de date
+24-06-2023 | Lucram la Clan System, mai putin de o luna pana la Open-Beta
 
 ***
 
@@ -20,7 +25,8 @@ A new version of XGTCore with @sLeeD[github.com/xXGeorgeXDR0]
 - [x] Groups
 - [x] Jobs
 - [x] Logs
-- [ ] Clan | working
+ - [x] updated | 20-06-2023
+- [ ] Clan | working | -> 60% 24-06-2023
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
 - [ ] Teleport System Update
 - [ ] Old Commands Update

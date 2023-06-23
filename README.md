@@ -25,7 +25,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)
 - [x] Groups
 - [x] Jobs
 - [x] Logs
- - [x] updated | 20-06-2023
+  - [x] updated | 20-06-2023
 - [ ] Clan | working | -> 60% 24-06-2023
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
 - [ ] Teleport System Update

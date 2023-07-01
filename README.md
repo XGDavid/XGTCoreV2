@@ -5,11 +5,12 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)
 
 [GoldenCraft Discord](https://discord.gg/uNexe75)
 
-3-2-2023 | Start\
-7-5-2023 | incerc sa conectez github-ul cu phpstorm :D\
-5-6-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived\
-16-6-2023 | Mare update la baza de date
-24-06-2023 | Lucram la Clan System, mai putin de o luna pana la Open-Beta
+03-02-2023 | Start\
+07-05-2023 | incerc sa conectez github-ul cu phpstorm :D\
+05-06-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived\
+16-6-2023 | Mare update la baza de date\
+24-06-2023 | Lucram la Clan System, mai putin de o luna pana la Open-Beta\
+01-07-2023 | Incerc sa termin Clan Systemul si curand sa incep alt job
 
 ***
 
@@ -23,10 +24,15 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)
 - [x] Settings
 - [x] Tickets
 - [x] Groups
-- [x] Jobs
+- [x] Ranks
+  - [ ] Update
+- [ ] Jobs
+  - [x] Fisher
+  - [x] Farmer
+  - [ ]  
 - [x] Logs
   - [x] updated | 20-06-2023
-- [ ] Clan | working | -> 60% 24-06-2023
+- [ ] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
 - [ ] Teleport System Update
 - [ ] Old Commands Update
@@ -45,6 +51,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)
 - [ ] Staff
 - [ ] Gambling
 - [ ] Achievements
+- [ ] Badges
+- [ ] Warnings
 
 ***
 

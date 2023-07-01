@@ -29,7 +29,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)
 - [ ] Jobs
   - [x] Fisher
   - [x] Farmer
-  - [ ]  
+  - [ ] Miner
 - [x] Logs
   - [x] updated | 20-06-2023
 - [ ] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023

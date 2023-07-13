@@ -1,5 +1,6 @@
 # XGTCoreV2
-A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)
+A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
+[![wakatime](https://wakatime.com/badge/user/a98d5df2-62b5-4525-9b86-6c42049b3403/project/5eb0dedb-451a-4321-911c-90cf5cad1978.svg)](https://wakatime.com/badge/user/a98d5df2-62b5-4525-9b86-6c42049b3403/project/5eb0dedb-451a-4321-911c-90cf5cad1978)
 
 [GoldenCraft Playlist](https://www.youtube.com/watch?v=EAE7p1YhjEY&list=PLdLn7VdXmaO-qypbTS1BmHXqJdtkwrbXa)
 

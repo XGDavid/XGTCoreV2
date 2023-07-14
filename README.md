@@ -39,7 +39,6 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
 - [ ] Teleport System Update
 - [ ] Old Commands Update
-- [ ] Ranks Update
 - [ ] Gold Shop
 - [ ] Dungeons
 - [ ] Daily Quests

@@ -13,7 +13,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 05-06-2023 | XGTCoreV2 Updated to PMMP 5, now XGTCoreV2 PMMP4 is arhived\
 16-6-2023 | Mare update la baza de date\
 24-06-2023 | Lucram la Clan System, mai putin de o luna pana la Open-Beta\
-01-07-2023 | Incerc sa termin Clan Systemul si curand sa incep alt job
+01-07-2023 | Incerc sa termin Clan Systemul si curand sa incep alt job\
+05-03-2024 | Am revenit, am terminat Clan System, am adaugat un PerWorldInv in libs
 
 ***
 
@@ -35,7 +36,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [ ] Miner
 - [x] Logs
   - [x] updated | 20-06-2023
-- [ ] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023
+- [x] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023  | 05-03-2024
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
 - [ ] Teleport System Update
 - [ ] Old Commands Update
@@ -106,6 +107,7 @@ Minim level 3 pentru a primi invite, clanul o aiba 10 sloturi cu tot cu liderul.
     - Deposit Upgrade(50.000 silver coins, 500 gold coins)
     - +5% mai mult silver coins de la job uri(max 25%)
     - +5% mai mult XP de la playeri(max 25%)
+    - +5 Plot Size Upgrade(max 40, def 25)
     - Clan Rank Up
 
 ### Clan Database (removed/changed)

@@ -241,3 +241,8 @@ Jobul e impartit in mai multe categori:
       Poti face rost de galeata in orice moment in care ai jobul de Farmer si Slotul pentru galeata liber. 
       Trebuie sa minezi 10-20 blocuri din subsolul hambarului pentru a obtine galeata.
 
+> ## **Miner** (6-5-2024)
+
+### Unlock the job
+Ca sa poti practica job ul trebuie sa completezi
+

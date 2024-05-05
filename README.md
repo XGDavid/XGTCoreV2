@@ -14,7 +14,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 16-6-2023 | Mare update la baza de date\
 24-06-2023 | Lucram la Clan System, mai putin de o luna pana la Open-Beta\
 01-07-2023 | Incerc sa termin Clan Systemul si curand sa incep alt job\
-05-03-2024 | Am revenit, am terminat Clan System, am adaugat un PerWorldInv in libs
+05-03-2024 | Am revenit, am terminat Clan System, am adaugat un PerWorldInv in libs\
+05-05-2024 | Am bagat muzica, am facut Area System
 
 ***
 
@@ -56,6 +57,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Achievements
 - [ ] Badges
 - [ ] Warnings
+- [x] Area
+- [ ] Tutorial
 
 ***
 

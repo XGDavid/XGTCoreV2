@@ -244,5 +244,14 @@ Jobul e impartit in mai multe categori:
 > ## **Miner** (6-5-2024)
 
 ### Unlock the job
-Ca sa poti practica job ul trebuie sa completezi
+Ca sa poti practica job ul trebuie sa completezi niste task uri:
+1. Prinde 100 de peste la Job ul Fisher
+2. Mulge vaca de 30 de ori la Job ul Farmer
+3. Culege 100 de fructe la Job ul Farmer -> Fruiter
+
+  ### __**Pickaxe's**__
+
+      
+
+      
 

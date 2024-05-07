@@ -251,7 +251,23 @@ Ca sa poti practica job ul trebuie sa completezi niste task uri:
 
   ### __**Pickaxe's**__
 
-      
+      Classic Pickaxe
+      - craft: 500 Silver Coins
+      - durabilitate ~100
+      - Small Cristal, Medium Cristal
+
+      Advanced Pickaxe
+      - craft: 2000 Silver Coins, 5 Advanced Fragments
+      - durabilitate ~200
+      - Small Cristal, Medium Cristal, Large Cristal, Big Cristal
+      - Haste I
+
+      Expert Pickaxe
+      - craft: 5000 Silver Coins, 3 Expert Fragments
+      - durabilitate ~300
+      - Small Cristal, Medium Cristal, Laege Cristal, Big Cristal
+      - Haste II
+      - Speed I
 
       
 

@@ -163,7 +163,6 @@ z
 
   ### Tiers
     Tier I
-      - 15.000 silver coins
       - basic rod
       - Salmon(43%), Cod(35%), Pufferfish(x15%), Silverfish(7%)
     Tier II
@@ -232,9 +231,11 @@ Jobul e impartit in mai multe categori:
     Tier II
       - 135.000 silver coins
       - Fruiter
+      - +20 coins la rand min si max
     Tier III
       - 200.000 silver coins
       - +1% sanse gold
+      - +40 coins la rand min si max
 
 ### Bucket
 
@@ -253,21 +254,52 @@ Ca sa poti practica job ul trebuie sa completezi niste task uri:
 
       Classic Pickaxe
       - craft: 500 Silver Coins
-      - durabilitate ~100
-      - Small Cristal, Medium Cristal
+      - durability ~100
+      - Small Crystal, Medium Crystal
 
       Advanced Pickaxe
-      - craft: 2000 Silver Coins, 5 Advanced Fragments
-      - durabilitate ~200
-      - Small Cristal, Medium Cristal, Large Cristal, Big Cristal
+      - craft: 2.000 Silver Coins, 5 Advanced Fragments
+      - durability ~200
+      - Small Crystal, Medium Crystal, Large Crystal, Big Crystal
       - Haste I
 
       Expert Pickaxe
-      - craft: 5000 Silver Coins, 3 Expert Fragments
-      - durabilitate ~300
-      - Small Cristal, Medium Cristal, Laege Cristal, Big Cristal
+      - craft: tier 2, 5.000 Silver Coins, 3 Expert Fragments
+      - durability ~300
+      - Small Crystal, Medium Crystal, Large Crystal, Big Crystal
       - Haste II
+
+  ### __**Backpack's**__
+
+        Classic Backpack
+      - craft: 1.500 Silver Coins
+      - capacity 15 kg
+
+      Advanced Backpack
+      - craft: 3.000 Silver Coins, 1 Advanced Fragments
+      - capacity 30 kg
       - Speed I
 
-      
+      Expert Pickaxe
+      - craft: tier 2, 5.000 Silver Coins, 1 Expert Fragments
+      - capacity 60 kg
+      - Speed II
+
+  ### Crystal's
+
+      Small Crystal: 1kg, purity 9, rand(4, 8) silver coins/kg/purity
+      Medium Crystal: 2kg, purity 8, rand(8, 13) silver coins/kg/purity
+      Large Crystal: 3kg, purity 5, rand(10, 16) silver coins/kg/purity
+      Big Crystal: 4kg, purity 1, rand(15, 25) silver coins/kg/purity
+
+  ### Tiers
+    Tier I
+      - Basic Pickaxe, Basic Backpack, Advanced Pickaxe, Advanced Backpack
+    Tier II
+      - 30.000 silver coins
+      - unlock: Expert Pickaxe & Expert Backpack
+      - +2 coins la rand min si max
+    Tier III
+      - 100.000 silver coins
+      - +3 coins la rand min si max
 

@@ -264,7 +264,7 @@ Ca sa poti practica job ul trebuie sa completezi niste task uri:
       - Haste I
 
       Expert Pickaxe
-      - craft: tier 2, 5.000 Silver Coins, 3 Expert Fragments
+      - craft: tier 2, 5.000 Silver Coins, 20 Gold Coins, 3 Expert Fragments
       - durability ~300
       - Small Crystal, Medium Crystal, Large Crystal, Big Crystal
       - Haste II
@@ -281,7 +281,7 @@ Ca sa poti practica job ul trebuie sa completezi niste task uri:
       - Speed I
 
       Expert Pickaxe
-      - craft: tier 2, 5.000 Silver Coins, 1 Expert Fragments
+      - craft: tier 2, 5.000 Silver Coins, 10, Gold Coins 1 Expert Fragments
       - capacity 60 kg
       - Speed II
 

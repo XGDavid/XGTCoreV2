@@ -244,11 +244,20 @@ Jobul e impartit in mai multe categori:
 
 > ## **Miner** (6-5-2024)
 
+Dupa ce ai pickaxe si backpack trebuie sa mergi in mine pentru a strange crystale, cu cat mergi mai in jos, gasesti cristale mai mari.
+In mine o sa gasesti:
+ - 30 Small Crystal
+ - 30 Medium Crystal
+ - 25 Large Crystal
+ - 15 Big Crystal
+Crystalele se respawneaza la 2 minute iar toti jucatori care se afla in mine o sa fie teleportati la intrarea in mina.
+
 ### Unlock the job
 Ca sa poti practica job ul trebuie sa completezi niste task uri:
 1. Prinde 100 de peste la Job ul Fisher
 2. Mulge vaca de 30 de ori la Job ul Farmer
 3. Culege 100 de fructe la Job ul Farmer -> Fruiter
+
 
   ### __**Pickaxe's**__
 
@@ -271,7 +280,7 @@ Ca sa poti practica job ul trebuie sa completezi niste task uri:
 
   ### __**Backpack's**__
 
-        Classic Backpack
+      Classic Backpack
       - craft: 1.500 Silver Coins
       - capacity 15 kg
 

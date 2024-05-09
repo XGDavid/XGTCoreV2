@@ -249,7 +249,7 @@ In mine o sa gasesti:
  - 30 Small Crystal
  - 30 Medium Crystal
  - 25 Large Crystal
- - 15 Big Crystal
+ - 15 Big Crystal\
 Crystalele se respawneaza la 2 minute iar toti jucatori care se afla in mine o sa fie teleportati la intrarea in mina.
 
 ### Unlock the job

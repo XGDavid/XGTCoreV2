@@ -296,10 +296,16 @@ Ca sa poti practica job ul trebuie sa completezi niste task uri:
 
   ### Crystal's
 
-      Small Crystal: 1kg, purity 9, rand(4, 8) silver coins/kg/purity, -1 pickaxe durability
-      Medium Crystal: 2kg, purity 8, rand(8, 13) silver coins/kg/purity, -1 pickaxe durability, 1%*Job Tier chance drop Advanced Fragments
-      Large Crystal: 3kg, purity 5, rand(10, 16) silver coins/kg/purity, -2 pickaxe durability, 1%*Job Tier chance drop Advanced Fragments, 1%*Job Tier chance drop Expert Fragments
-      Big Crystal: 4kg, purity 1, rand(15, 25) silver coins/kg/purity, -3 pickaxe durability, 3%*Job Tier chance drop Advanced Fragments, (1%*Job Tier)(+2 isRank) chance drop Expert Fragments
+      Small Crystal: 1kg, purity 9, rand(4, 8) silver coins/kg/purity, -1 pickaxe durability;
+      
+      Medium Crystal: 2kg, purity 8, rand(8, 13) silver coins/kg/purity, -1 pickaxe durability,
+                      (1%*Job Tier)(+2 isRank) chance drop Advanced Fragments;
+                      
+      Large Crystal: 3kg, purity 5, rand(10, 16) silver coins/kg/purity, -2 pickaxe durability,
+                      (1%*Job Tier)(+2 isRank) chance drop Advanced Fragments, (1%*Job Tier)(+1 isRank) chance drop Expert Fragments;
+                      
+      Big Crystal: 4kg, purity 1, rand(15, 25) silver coins/kg/purity, -3 pickaxe durability,
+                      (3%*Job Tier)(+2 isRank) chance drop Advanced Fragments, (1%*Job Tier)(+1 isRank) chance drop Expert Fragments;
 
   ### Tiers
     Tier I

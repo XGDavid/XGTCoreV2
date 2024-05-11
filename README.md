@@ -307,6 +307,8 @@ Ca sa poti practica job ul trebuie sa completezi niste task uri:
       Big Crystal: 4kg, purity 1, rand(15, 25) silver coins/kg/purity, -3 pickaxe durability,
                       3%*Job Tier(+2 isRank) chance drop Advanced Fragments, 1%*Job Tier(+1 isRank) chance drop Expert Fragments;
 
+     15kg Big Crystal = 3%(+2% isRank) chance for Gold Coins
+
   ### Tiers
     Tier I
       - Basic Pickaxe, Basic Backpack, Advanced Pickaxe, Advanced Backpack

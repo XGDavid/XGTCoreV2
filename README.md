@@ -39,7 +39,10 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] updated | 20-06-2023
 - [x] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023  | 05-03-2024
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
-- [ ] Teleport System Update
+- [ ] Teleport
+  - [ ] Zones
+  - [ ] Home
+  - [ ] Tpa
 - [ ] Old Commands Update
 - [ ] Gold Shop
 - [ ] Dungeons
@@ -61,6 +64,17 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Tutorial
 
 ***
+
+> ## **Teleport** (12-5-2024)
+
+### Zones(Warp)
+Pe format GUI.
+Daca esti in zona spawnului si vrei sa te teleportezi la o zona, teleportul o sa fie INSTANT.
+Daca esti in afara spawnului si vrei sa te teleportezi la o zona, teleportul o sa fie COOLDOWN.
+
+* Crates
+* Dungeon
+* 
 
 
 > ## **Clan System** (5-6-2023)

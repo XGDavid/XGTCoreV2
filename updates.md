@@ -13,3 +13,17 @@
 - music
 - area system
 - bugs fix
+
+***
+
+> alpha 12-05-2024
+- miner job
+- job update/fix
+- bug fix
+- bug fix
+- bug fix
+- bug fix
+- bug fix
+- bug fix
+- bug fix
+- bug fix

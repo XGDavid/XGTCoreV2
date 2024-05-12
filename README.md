@@ -31,10 +31,10 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Groups
 - [x] Ranks
   - [ ] Update
-- [ ] Jobs
+- [x] Jobs
   - [x] Fisher
   - [x] Farmer
-  - [ ] Miner
+  - [x] Miner 12-05-2024
 - [x] Logs
   - [x] updated | 20-06-2023
 - [x] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023  | 05-03-2024

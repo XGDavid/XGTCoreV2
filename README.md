@@ -67,14 +67,56 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 
 > ## **Teleport** (12-5-2024)
 
+
+### Teleports
+    INSTANT - Daca pozitia jucatorului este in SafeZone si pozitia unde vrea sa se teleporteze este tot in SafeZone teleportarea se face instant.
+    COOLDOWN - Teleportarea se va face cu cooldown in functie de rank(10/8/7/6 sec | YT/VIP/GOLD | -1 sec/reborn)
+
 ### Zones(Warp)
 Pe format GUI.
 Daca esti in zona spawnului si vrei sa te teleportezi la o zona, teleportul o sa fie INSTANT.
 Daca esti in afara spawnului si vrei sa te teleportezi la o zona, teleportul o sa fie COOLDOWN.
 
-* Crates
-* Dungeon
-* 
+    Exemplu:
+    * Crates
+    * Dungeon
+    * PvP
+
+### TPA
+    Tpa
+    - /tpa player - COOLDOWN
+    - daca playerul care a dat accept pleaca la o distanta mai mare de 10 blockuri de la punctul unde a dat /tpaccept se anuleaza teleportarea
+    - daca playerul care a dat reqeust pleaca se misca mai mult de 1 block dupa accept se anuleaza teleportarea
+    Tpahere
+    - /tpahere player - COOLDOWN
+    - daca playerul care a dat accept pleaca la o distanta mai mare de 1 block de la punctul unde a dat /tpaccept se anuleaza teleportarea
+    - daca playerul care a dat reqeust pleaca se misca mai mult de 10 blockuri dupa accept se anuleaza teleportarea
+    Tpaccept
+    - /tpaccept plyaer 
+    - timp de accept 30 sec
+
+### Homes
+Pe format UI.
+Fiecare player are 1 Home Slot by default.
+La fiecare Reborn primesti un Home Slot.
+Poti cumpara Home Slot din premium shop.
+Teleportarea de tip COOLDOWN.
+Nu poti pune in SafeZone Home.
+Sub fiecare home scrie daca acesta se afla pe plotul clanului tau, pe plotul altui clan sau pe niciun plot.
+
+### Spawn Change
+Pentru cei cu rank YT/VIP/GOLD au optiunea de a alege unde sa se spawneze la intrarea pe Server, selectand asta de pe un UI, daca il inchid, acestia se spawneaza ls server spawn.
+Acest lucru in pot opri din [/settings] iar tot timpul o sa fie spawnati la server spawn.
+
+    Exemplu:
+    * Spawn
+    * Last Position !!!
+    * Clan Home
+    * Home 1
+    * Home 2
+    * etc
+    
+  
 
 
 > ## **Clan System** (5-6-2023)
@@ -84,10 +126,10 @@ Minim level 3 pentru a primi invite, clanul o aiba 10 sloturi cu tot cu liderul.
 ### Clan Levels
 
     Rank 1: din start | clan deposit(silver coins 50.000), 0 Clan Power
-    Rank 2: 50.000 clan XP, 20.000 clan silver coins, minim 3 membri, 100 Clan Power | unlock: clan perks tier 1, clan missions(soon), clan wars, clan deposit(silver coins +5.000, gold coins +50)
-    Rank 3: 75.000 clan XP, 50.000 clan silver coins, 80 clan gold coins, minim 5 membri, 300 Clan Power | unlock: clan job, clan perks tier 2, clan missions +5(soon), clan deposit(silver coins +5.000, gold coins +50)
-    Rank 4: 100.000 clan XP, 75.000 clan silver coins, 120 clan gold coins, minim 5 membri, 500 Clan Power | unlock: clan perks tier 3, clan missions +5(soon), clan deposit(silver coins +5.000, gold coins +50), +3 sloturi 
-    Rank 5: 200.000 clan XP, 150.000 clan silver coins, 200 clan gold coins, minim 5 membri, 1000 Clan Power | unlock: clan perks tier 4, clan missions +5(soon), clan deposit(silver coins +5.000, gold coins +50)
+    Rank 2: 50.000 clan XP, 20.000 clan silver coins | unlock: clan perks tier 1, clan missions(soon), clan wars, clan deposit(silver coins +5.000, gold coins +50)
+    Rank 3: 75.000 clan XP, 50.000 clan silver coins, 80 clan gold coins | unlock: clan job, clan perks tier 2, clan missions +5(soon), clan deposit(silver coins +5.000, gold coins +50)
+    Rank 4: 100.000 clan XP, 75.000 clan silver coins, 120 clan gold coins | unlock: clan perks tier 3, clan missions +5(soon), clan deposit(silver coins +5.000, gold coins +50), +3 sloturi 
+    Rank 5: 200.000 clan XP, 150.000 clan silver coins, 200 clan gold coins | unlock: clan perks tier 4, clan missions +5(soon), clan deposit(silver coins +5.000, gold coins +50)
 
 ### Clan Perks
 
@@ -113,7 +155,7 @@ Minim level 3 pentru a primi invite, clanul o aiba 10 sloturi cu tot cu liderul.
 ### Clan Wars
 
     In fiecare duminica, de la o anumita ora, liderul impreuna cu membrii online, pot sa participe la Clan Wars.
-    O arena, unde Fiecare clan este impartit intr o zona, ei au la dispozitie 10 minute sa mineze si sa si faca niste iteme/mini baza, iar dupa acele 10 minute incepe bataie, pana la LSM. Clanul ultimului player, castiga.
+    O arena, unde Fiecare clan este impartit intr o zona, ei au la dispozitie 10 minute sa mineze si sa si faca niste iteme/mini baza, iar dupa acele 10 minute incepe bataie, pana la LMS. Clanul ultimului player, castiga.
     Alta varianta, tot o arena, 10 minute loot, dupa fiecare clan are un HP de 30, de fiecare data cand un jucator moare din acel clan => -1hp clan. 0hp clan = out, clanul care ramane cu hp castiga.
     Rewards: ....
 

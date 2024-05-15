@@ -42,7 +42,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Teleport
   - [x] Zones 13-04-2024
   - [x] Home 14-05-2024
-  - [ ] Tpa
+  - [x] Tpa 15-05-2024
 - [ ] Old Commands Update
 - [ ] Gold Shop
 - [ ] Dungeons
@@ -83,6 +83,7 @@ Daca esti in afara spawnului si vrei sa te teleportezi la o zona, teleportul o s
     * PvP
 
 ### TPA
+    !!!schimbat 15-05-2024, mutat totul pe UI! 
     Tpa
     - /tpa player - COOLDOWN
     - daca playerul care a dat accept pleaca la o distanta mai mare de 10 blockuri de la punctul unde a dat /tpaccept se anuleaza teleportarea

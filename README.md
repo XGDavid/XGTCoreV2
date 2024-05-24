@@ -48,7 +48,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Gold Shop
 - [ ] Dungeons
 - [ ] Daily Quests
-- [ ] Player Activity(online time)
+- [x] Player Activity(online time) | 24-05-2024
 - [ ] Battlepas
 - [ ] Storymode
 - [ ] Crates

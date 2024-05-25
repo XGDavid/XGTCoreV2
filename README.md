@@ -49,10 +49,12 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Dungeons
 - [ ] Daily Quests
 - [x] Player Activity(online time) | 24-05-2024
+  - [x] Afk 24-05-2024
+  - [x] Daily Activity 25-05-2024
 - [ ] Battlepas
 - [ ] Storymode
 - [ ] Crates
-- [ ] Vote
+- [x] Vote | 26-05-2024
 - [ ] Events
 - [ ] Kits
 - [ ] Experiments(enchants)

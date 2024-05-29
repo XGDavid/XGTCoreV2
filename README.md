@@ -59,6 +59,9 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Kits
 - [ ] Experiments(enchants)
 - [ ] Staff
+  - [x] StaffMode | 28-05-2024
+  - [x] Spy | 29-05-2024
+  - [ ] Staff Panel(Mute, Warn, Ban) 
 - [ ] Gambling
 - [ ] Achievements
 - [ ] Badges

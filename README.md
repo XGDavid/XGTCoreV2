@@ -58,10 +58,11 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Events
 - [ ] Kits
 - [ ] Experiments(enchants)
-- [ ] Staff
+- [x] Staff | 01-06-2024
   - [x] StaffMode | 28-05-2024
   - [x] Spy | 29-05-2024
-  - [ ] Staff Panel(Mute, Warn, Ban) 
+  - [x] Staff Panel(Mute, Warn, Ban) | 01-06-2024
+  - [x] List | 01-06-2024
 - [ ] Gambling
 - [ ] Achievements
 - [ ] Badges

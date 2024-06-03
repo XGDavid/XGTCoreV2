@@ -63,6 +63,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Spy | 29-05-2024
   - [x] Staff Panel(Mute, Warn, Ban) | 01-06-2024
   - [x] List | 01-06-2024
+  - [x] Ask Staff Questions | 03-06-2024
 - [ ] Gambling
 - [ ] Achievements
 - [ ] Badges

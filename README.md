@@ -70,6 +70,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Warnings
 - [x] Area
 - [ ] Tutorial
+- [x] Link Discord Account(1st connect reward) | 04-06-2024
 
 ***
 

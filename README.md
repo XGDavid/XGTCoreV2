@@ -30,7 +30,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Tickets
 - [x] Groups
 - [x] Ranks
-  - [ ] Update
+  - [x] Update 07-06-2024
 - [x] Jobs
   - [x] Fisher
   - [x] Farmer

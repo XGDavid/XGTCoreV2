@@ -16,6 +16,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 01-07-2023 | Incerc sa termin Clan Systemul si curand sa incep alt job\
 05-03-2024 | Am revenit, am terminat Clan System, am adaugat un PerWorldInv in libs\
 05-05-2024 | Am bagat muzica, am facut Area System
+30-06-2024 | Am bagat dungeon, ma facut alt job, bug fix, SQL Injection protect
 
 ***
 
@@ -37,8 +38,10 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Miner 12-05-2024
 - [x] Logs
   - [x] updated | 20-06-2023
+  - [x] ip | 30-06-2024
 - [x] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023  | 05-03-2024
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
+  - [x] BIG DATA BASE UPDATE sql injection protect | 30-06-2024
 - [x] Teleport
   - [x] Zones 13-04-2024
   - [x] Home 14-05-2024
@@ -46,7 +49,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Spawn Change 23-05-2024
 - [ ] Old Commands Update
 - [ ] Gold Shop
-- [ ] Dungeons
+- [x] Dungeons
+  - [x] Forest Dungeon (inceput in 10-06-2024)
 - [ ] Daily Quests
 - [x] Player Activity(online time) | 24-05-2024
   - [x] Afk 24-05-2024
@@ -67,7 +71,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Gambling
 - [ ] Achievements
 - [ ] Badges
-- [ ] Warnings
+- [x] Warnings | idk-05-2024
 - [x] Area
 - [ ] Tutorial
 - [x] Link Discord Account(1st connect reward) | 04-06-2024

@@ -50,7 +50,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Old Commands Update
 - [ ] Gold Shop
 - [x] Dungeons
-  - [x] Forest Dungeon (inceput in 10-06-2024)
+  - [x] Forest Dungeon (inceput in 10-06-2024 si undeva prin 1-2 iulie terminat)
 - [ ] Daily Quests
 - [x] Player Activity(online time) | 24-05-2024
   - [x] Afk 24-05-2024
@@ -75,6 +75,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Area
 - [ ] Tutorial
 - [x] Link Discord Account(1st connect reward) | 04-06-2024
+- [x] FloatingText 
 
 ***
 

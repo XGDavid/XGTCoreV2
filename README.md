@@ -61,7 +61,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Vote | 26-05-2024
 - [ ] Events
 - [ ] Kits
-- [ ] Experiments(enchants)
+- [x] Experiments(enchants) | 08-07-2024
+  - [x] Runes(Tools and Armor) ([thanks](https://github.com/WeaVerseStudio/DeathRunes/)
 - [x] Staff | 01-06-2024
   - [x] StaffMode | 28-05-2024
   - [x] Spy | 29-05-2024

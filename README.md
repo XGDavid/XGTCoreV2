@@ -60,7 +60,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Crates
 - [x] Vote | 26-05-2024
 - [ ] Events
-- [ ] Kits
+- [x] Kits (70% | 10-07-2024)
 - [x] Experiments(enchants) | 08-07-2024
   - [x] Runes(Tools and Armor) ([thanks](https://github.com/WeaVerseStudio/DeathRunes/)
 - [x] Staff | 01-06-2024

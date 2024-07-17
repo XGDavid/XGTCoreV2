@@ -16,7 +16,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 01-07-2023 | Incerc sa termin Clan Systemul si curand sa incep alt job\
 05-03-2024 | Am revenit, am terminat Clan System, am adaugat un PerWorldInv in libs\
 05-05-2024 | Am bagat muzica, am facut Area System
-30-06-2024 | Am bagat dungeon, ma facut alt job, bug fix, SQL Injection protect
+30-06-2024 | Am bagat dungeon, ma facut alt job, bug fix, SQL Injection protect\
+17-07-2024 | An adaugat Daily Quest-uri, am fuzionat Vote Points si Quest Points in Activity Points
 
 ***
 
@@ -51,7 +52,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Gold Shop
 - [x] Dungeons
   - [x] Forest Dungeon (inceput in 10-06-2024 si undeva prin 1-2 iulie terminat)
-- [ ] Daily Quests
+- [x] Daily Quests | 17-07-2024
 - [x] Player Activity(online time) | 24-05-2024
   - [x] Afk 24-05-2024
   - [x] Daily Activity 25-05-2024

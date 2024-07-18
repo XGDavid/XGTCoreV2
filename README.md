@@ -58,7 +58,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Daily Activity 25-05-2024
 - [ ] Battlepas
 - [ ] Storymode
-- [ ] Crates
+- [x] Crates | 17-07-2024
 - [x] Vote | 26-05-2024
 - [ ] Events
 - [x] Kits (70% | 10-07-2024)
@@ -77,7 +77,10 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Area
 - [ ] Tutorial
 - [x] Link Discord Account(1st connect reward) | 04-06-2024
-- [x] FloatingText 
+- [x] FloatingText | 05-07-2024
+- [x] Scoreboard | 02-05-2024
+- [x] CombatLogger | 18-07-2024
+  - [x] OPGoldenApple, GoldenApple, EnderPearl CD | 18-07-2024
 
 ***
 

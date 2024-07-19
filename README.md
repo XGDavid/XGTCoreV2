@@ -70,7 +70,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Staff Panel(Mute, Warn, Ban) | 01-06-2024
   - [x] List | 01-06-2024
   - [x] Ask Staff Questions | 03-06-2024
-- [ ] Gambling
+- [x] Gambling | 19-07--2024
+  - [x] Coin Flip & Dice
 - [ ] Achievements
 - [ ] Badges
 - [x] Warnings | idk-05-2024

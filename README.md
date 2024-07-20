@@ -63,7 +63,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Events
 - [x] Kits (70% | 10-07-2024)
 - [x] Experiments(enchants) | 08-07-2024
-  - [x] Runes(Tools and Armor) ([thanks](https://github.com/WeaVerseStudio/DeathRunes/)
+  - [x] Runes(Tools and Armor) ([thanks](https://github.com/WeaVerseStudio/DeathRunes/))
 - [x] Staff | 01-06-2024
   - [x] StaffMode | 28-05-2024
   - [x] Spy | 29-05-2024
@@ -72,6 +72,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Ask Staff Questions | 03-06-2024
 - [x] Gambling | 19-07--2024
   - [x] Coin Flip & Dice
+  - [x] Lotto + Gambling Fees| 21-07-2024 (cel mai bun sistem)
 - [ ] Achievements
 - [ ] Badges
 - [x] Warnings | idk-05-2024

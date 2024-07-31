@@ -83,7 +83,9 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Scoreboard | 02-05-2024
 - [x] CombatLogger | 18-07-2024
   - [x] OPGoldenApple, GoldenApple, EnderPearl CD | 18-07-2024
-- [x] Spawners | 25-07-2024     
+- [x] Spawners | 25-07-2024
+- [x] Wither | 13-07-2024
+- [x] Trade | 01-08-2024 
 
 
 ***

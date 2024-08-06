@@ -49,7 +49,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Tpa 15-05-2024
   - [x] Spawn Change 23-05-2024
 - [ ] Old Commands Update
-- [ ] Gold Shop
+- [x] Gold Shop
 - [x] Dungeons
   - [x] Forest Dungeon (inceput in 10-06-2024 si undeva prin 1-2 iulie terminat)
 - [x] Daily Quests | 17-07-2024

@@ -76,7 +76,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Coin Flip & Dice
   - [x] Lotto + Gambling Fees| 21-07-2024 (cel mai bun sistem)
 - [ ] Achievements
-- [ ] Badges
+- [x] Badges
 - [x] Warnings | idk-05-2024
 - [x] Area
 - [ ] Tutorial

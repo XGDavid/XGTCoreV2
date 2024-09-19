@@ -48,7 +48,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Home 14-05-2024
   - [x] Tpa 15-05-2024
   - [x] Spawn Change 23-05-2024
-- [ ] Old Commands Update
+- [x] Old Commands Update | 70% 19-09-2024
 - [x] Gold Shop | 12-08-2024
 - [x] Normal Shop | 16-09-2024
 - [ ] Activity Shop  
@@ -76,7 +76,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Coin Flip & Dice
   - [x] Lotto + Gambling Fees| 21-07-2024 (cel mai bun sistem)
 - [ ] Achievements
-- [x] Badges
+- [x] Badges | 17-09-2024
 - [x] Warnings | idk-05-2024
 - [x] Area
 - [ ] Tutorial

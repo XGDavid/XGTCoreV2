@@ -27,3 +27,15 @@
 - bug fix
 - bug fix
 - bug fix
+
+***
+
+> alpha 23-10-2024
+- am adaugat functionalitate la perk ul quest (+1 activity points la orice quest)
+- am rezolvat un bug de la perk uri, puteai sa cumper perk de lvl 2 la infinit
+- adaugat luni in RandomUtils::time_elapsed
+- reparat sa apara Online/offline cand intri sa vezi membri din alt clan(Clan List->Clan)
+- reparat in member info sa nu mai apara Last online, ci Online/Offline
+- in bypass setclan, am adaugat sa ii seteze si ClanJoin la player
+- textul modificat din gri in alb de la butoanele din /c
+- am adaugat la war, sa ii bage toate itemele in inbox

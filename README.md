@@ -51,7 +51,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Old Commands Update | 70% 19-09-2024
 - [x] Gold Shop | 12-08-2024
 - [x] Normal Shop | 16-09-2024
-- [ ] Activity Shop  
+- [x] Activity Shop | 23-10-2024
 - [x] Dungeons
   - [x] Forest Dungeon (inceput in 10-06-2024 si undeva prin 1-2 iulie terminat)
 - [x] Daily Quests | 17-07-2024

@@ -39,3 +39,12 @@
 - in bypass setclan, am adaugat sa ii seteze si ClanJoin la player
 - textul modificat din gri in alb de la butoanele din /c
 - am adaugat la war, sa ii bage toate itemele in inbox
+
+***
+
+> alpha 24-10-2024
+- bug fixs la Clan War, MUULT rau
+- daca in clan depozit ai mai mult silver coins decat maximum, sa nu ti mai seteze la maxim(bug fix)
+- setarea itemelor in inbox o sa fie fix cand se termina queue time ul
+- am adaugat efect negru in freeze war ca la dungeom
+- am adaugat si TIE la war, in caz ca ultimii jucatori mor simultan

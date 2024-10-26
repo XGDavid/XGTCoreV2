@@ -15,7 +15,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 24-06-2023 | Lucram la Clan System, mai putin de o luna pana la Open-Beta\
 01-07-2023 | Incerc sa termin Clan Systemul si curand sa incep alt job\
 05-03-2024 | Am revenit, am terminat Clan System, am adaugat un PerWorldInv in libs\
-05-05-2024 | Am bagat muzica, am facut Area System
+05-05-2024 | Am bagat muzica, am facut Area System\
 30-06-2024 | Am bagat dungeon, ma facut alt job, bug fix, SQL Injection protect\
 17-07-2024 | An adaugat Daily Quest-uri, am fuzionat Vote Points si Quest Points in Activity Points
 

@@ -48,3 +48,16 @@
 - setarea itemelor in inbox o sa fie fix cand se termina queue time ul
 - am adaugat efect negru in freeze war ca la dungeom
 - am adaugat si TIE la war, in caz ca ultimii jucatori mor simultan
+
+***
+
+> alpha 28-10-2024
+- am adaugat 12 slot uri la war
+- Mobs -> DungeonMobs
+- adaugati WarMobs
+- sa nu piarda xp ul cand moare in war
+- score urile de la war ca un CONST in ClanManager
+- reparat sistemul de asisturi
+- am facut mesajele in player death din war
+- dupa war, sa primeasca CI si/sau daca iese in timpul war ului
+- lightning animation death in war

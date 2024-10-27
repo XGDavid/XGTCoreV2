@@ -61,3 +61,14 @@
 - am facut mesajele in player death din war
 - dupa war, sa primeasca CI si/sau daca iese in timpul war ului
 - lightning animation death in war
+
+*** 
+
+> alpha 28-10-2024
+- clan tags colorate la war
+- chest uri
+- harta de war
+- border la war waves
+- zonele wave ului automate in functie de centru ul borderului
+- timpul de queue la dungeon setat(sa nu mai fie 10, pt teste)
+- in war, daca spargi diamante, poti primi rand(1,2), daca spargi lapis, carti cu enchant, daca spargi redstone(potiuni, debuff, buffer)

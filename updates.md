@@ -72,3 +72,12 @@
 - zonele wave ului automate in functie de centru ul borderului
 - timpul de queue la dungeon setat(sa nu mai fie 10, pt teste)
 - in war, daca spargi diamante, poti primi rand(1,2), daca spargi lapis, carti cu enchant, daca spargi redstone(potiuni, debuff, buffer)
+
+***
+
+> alpha 29-10-2024
+- am adaugat mobi in war
+- cand apare borderul pt wave2/3, nu iti mai iei dmg chiar daca iesi din zona wave ului vechi
+- daca moare de la mobi in war sa apara anno
+- daca omoara mobi primeste +1 score
+- daca omoara boss ul primesc un reward

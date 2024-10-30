@@ -41,6 +41,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] updated | 20-06-2023
   - [x] ip | 30-06-2024
 - [x] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023  | 05-03-2024
+  - [x] Big Update Clan War | 30-10-2024
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
   - [x] BIG DATA BASE UPDATE sql injection protect | 30-06-2024
 - [x] Teleport

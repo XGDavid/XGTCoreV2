@@ -81,3 +81,14 @@
 - daca moare de la mobi in war sa apara anno
 - daca omoara mobi primeste +1 score
 - daca omoara boss ul primesc un reward
+
+
+***
+
+> alpha 31-10-2024
+- mesaj de info adaugat la inceputul war ului
+- reparat ce tine de CameraAPI
+- in shop corectat din "ac" in "ap" la activity shop
+- scos din libs perWorldInv(am mai pastrat libs urile din el, avem nev pt discordAcc)
+- adaugata comanda /take
+- am adaugat Motd update task 

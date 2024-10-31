@@ -92,3 +92,23 @@
 - scos din libs perWorldInv(am mai pastrat libs urile din el, avem nev pt discordAcc)
 - adaugata comanda /take
 - am adaugat Motd update task 
+
+
+***
+
+> alpha 01-11-2024
+- am adaugat in /systems -> Motd
+- daca e un server boost on, se schimba motd ul
+- in stats am facut functia de badges functionala + sortarea lor in functie de data
+- am adaugat sa primesti freeze daca pui mai mult de 10 blockuri in protectie(attempt)
+- am adaugat la break in protectie sa primesti mai putine mesaje(attempt)
+- bug fix la dungeon queue la count()
+- am adaugat in /systems Server TPS
+- am adaugat old commands: plugins, status, version
+- am adaugat comenzi blocate in timpul war ului
+- daca ai Private Message off in settings sa nu poti trimite mesaje/primi
+- am scos optiunea de turn off dice request din /settings
+- am schimbat in lucky fish sa primeasca in inbox daca n are loc in inv si sa nu dea drop
+- actualizat spy ul(+ChatText)
+- am mutat getDefaultCooldown din TeleportManager in DefaultManager, pentru al putea folosi si in alte parti cu aceeasi functie + schimbat in static function
+

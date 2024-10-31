@@ -49,7 +49,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Home 14-05-2024
   - [x] Tpa 15-05-2024
   - [x] Spawn Change 23-05-2024
-- [x] Old Commands Update | 70% 19-09-2024
+- [x] Old Commands Update | 70% 19-09-2024 | 95% 01-11-2024
 - [x] Gold Shop | 12-08-2024
 - [x] Normal Shop | 16-09-2024
 - [x] Activity Shop | 23-10-2024
@@ -80,6 +80,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Badges | 17-09-2024
 - [x] Warnings | idk-05-2024
 - [x] Area
+  - [x] Break/Place attempt | 01-11-2024
 - [ ] Tutorial
 - [x] Link Discord Account(1st connect reward) | 04-06-2024
 - [x] FloatingText | 05-07-2024

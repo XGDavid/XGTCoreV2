@@ -112,3 +112,12 @@
 - actualizat spy ul(+ChatText)
 - am mutat getDefaultCooldown din TeleportManager in DefaultManager, pentru al putea folosi si in alte parti cu aceeasi functie + schimbat in static function
 
+
+***
+
+> alpha 03-11-2024
+- am adaugat in /list daca esti in war sa ti arate lumea din war + sv count online
+- am adaugat un anti spammer, anti badwords, anti command spammer
+- am adaugat un fisier in in resours->database->badwords.txt
+- am facut ca acest fisier sa fie creat automat si cu un exemplu, in caz ca nu exista
+- am inceput sa lucrez la gift codes(bonus system)

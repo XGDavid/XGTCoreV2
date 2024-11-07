@@ -121,3 +121,19 @@
 - am adaugat un fisier in in resours->database->badwords.txt
 - am facut ca acest fisier sa fie creat automat si cu un exemplu, in caz ca nu exista
 - am inceput sa lucrez la gift codes(bonus system)
+
+
+***
+
+> alpha 07-11-2024
+- am adaugat obsidian breaker cu tnt (2 dmg normal, 1 dmg in apa, total hp 10)
+- sa nu mai poti interactiona cu anumite blockuri in protectie
+- bug fix la floating text
+- lista de perk uri din clan -> perks sa fie colorata in functie de perk
+- modificat timpul pt care iti apare UI ul de la dungeon
+- bug fix la dungeon queue timer
+- adaugat Played time in /stats
+- adauagt in /staff (usage) mai multe informatii
+- text fixs in /panel si in warn ban screen
+- bug fixs la /take (nu era trecut ca take, lipseau niste notificari)
+- am inceput sa lucrez la whitelist

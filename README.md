@@ -17,13 +17,17 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 05-03-2024 | Am revenit, am terminat Clan System, am adaugat un PerWorldInv in libs\
 05-05-2024 | Am bagat muzica, am facut Area System\
 30-06-2024 | Am bagat dungeon, ma facut alt job, bug fix, SQL Injection protect\
-17-07-2024 | An adaugat Daily Quest-uri, am fuzionat Vote Points si Quest Points in Activity Points
+17-07-2024 | Am adaugat Daily Quest-uri, am fuzionat Vote Points si Quest Points in Activity Points\
+01-11-2024 | In ultimul timp am facut la Clan War, Activity Points, Bug Fixs si mai multe, gasiti toate change logs in fisierul updates 
 
 ***
 
 > ## **Todo** 
 
 - [x] Systems
+  - [x] Mots | 01-11-2024
+  - [x] Activity Stock | 23-10-2024
+  - [ ] Whitelist
 - [x] Text
 - [x] Notifications
 - [x] Economy
@@ -85,6 +89,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Link Discord Account(1st connect reward) | 04-06-2024
 - [x] FloatingText | 05-07-2024
 - [x] Scoreboard | 02-05-2024
+- [ ] ClearLag(items)
 - [x] CombatLogger | 18-07-2024
   - [x] OPGoldenApple, GoldenApple, EnderPearl CD | 18-07-2024
 - [x] Spawners | 25-07-2024

@@ -137,3 +137,11 @@
 - text fixs in /panel si in warn ban screen
 - bug fixs la /take (nu era trecut ca take, lipseau niste notificari)
 - am inceput sa lucrez la whitelist
+
+
+***
+
+> alpha 09-11-2024
+> - am terminat /systems whitelist (ceva basic)
+- am scos din reward urile de la dungoen Rocket Fragments(le vom adauga in viitor)
+- am adaugat un lore informativ la spawner frag si core

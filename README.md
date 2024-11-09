@@ -27,7 +27,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Systems
   - [x] Mots | 01-11-2024
   - [x] Activity Stock | 23-10-2024
-  - [ ] Whitelist
+  - [x] Whitelist | 09-11-2024
 - [x] Text
 - [x] Notifications
 - [x] Economy

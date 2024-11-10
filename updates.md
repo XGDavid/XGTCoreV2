@@ -145,3 +145,12 @@
 > - am terminat /systems whitelist (ceva basic)
 - am scos din reward urile de la dungoen Rocket Fragments(le vom adauga in viitor)
 - am adaugat un lore informativ la spawner frag si core
+
+***
+
+> alpha 10-11-2024
+- am inceput sistemul de tutorial
+- am adugat un PlayerKillStackableMobEvent, pentru a verifica cand moara un stackable mob pt tutoriar, trb testat ceva cu progresul
+- am adaugat in Account functia defaultAccount, pentru a seta lucrurile default
+- am adauat JobGetEvent
+

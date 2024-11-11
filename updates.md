@@ -146,6 +146,7 @@
 - am scos din reward urile de la dungoen Rocket Fragments(le vom adauga in viitor)
 - am adaugat un lore informativ la spawner frag si core
 
+
 ***
 
 > alpha 10-11-2024
@@ -154,3 +155,11 @@
 - am adaugat in Account functia defaultAccount, pentru a seta lucrurile default
 - am adauat JobGetEvent
 
+
+***
+
+
+> alpha 11-11-2024
+- am adaugat in FarmerCollectEvent -> milk
+- am adaugat FeedCowEvent
+- default silvercoins -> 300

@@ -173,3 +173,11 @@
 - doar daca ai rank poti opri sounds notification din /settings
 - sound cand dai /fish
 - am terminat 95% sistemul de Tutorial
+
+
+***
+
+> alpha 17-11-2024
+- am adaugat remove All Tpa Request
+- buf fix queue timerul la dungeon
+- bug fix dungeon banned commands

@@ -163,3 +163,13 @@
 - am adaugat in FarmerCollectEvent -> milk
 - am adaugat FeedCowEvent
 - default silvercoins -> 300
+
+
+***
+
+> alpha 16-11-2024
+- ZombieFIghter -> GhoulFighter + skin 
+- ambient cave sound in dungeon
+- doar daca ai rank poti opri sounds notification din /settings
+- sound cand dai /fish
+- am terminat 95% sistemul de Tutorial

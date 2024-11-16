@@ -85,7 +85,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Warnings | idk-05-2024
 - [x] Area
   - [x] Break/Place attempt | 01-11-2024
-- [ ] Tutorial
+- [x] Tutorial | 16-11-2024
 - [x] Link Discord Account(1st connect reward) | 04-06-2024
 - [x] FloatingText | 05-07-2024
 - [x] Scoreboard | 02-05-2024

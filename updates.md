@@ -181,3 +181,15 @@
 - am adaugat remove All Tpa Request
 - buf fix queue timerul la dungeon
 - bug fix dungeon banned commands
+
+
+***
+
+> alpha 19-11-2024
+- dungeon mobs nu ti mai scad din durabilitatea armuri
+- in /home sa scrie si [/home delete] pt delete
+- am adauagt in /shop optiunea de a cumpara mai multe home slot uri
+- LoginEvent + ChatEvent => DefaultsEvent
+- am adaugat join, quit, death message(events)
+- am adaugat niste particule in Defaults
+- am facut ca nu poti pune/crafta anvil/enchantment table

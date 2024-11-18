@@ -67,7 +67,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] Storymode
 - [x] Crates | 17-07-2024
 - [x] Vote | 26-05-2024
-- [ ] Events
+- [x] Events Messages | 19-11-2024
 - [x] Kits (70% | 10-07-2024)
 - [x] Experiments(enchants) | 08-07-2024
   - [x] Runes(Tools and Armor) ([thanks](https://github.com/WeaVerseStudio/DeathRunes/))

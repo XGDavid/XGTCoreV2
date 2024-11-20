@@ -193,3 +193,16 @@
 - am adaugat join, quit, death message(events)
 - am adaugat niste particule in Defaults
 - am facut ca nu poti pune/crafta anvil/enchantment table
+
+
+***
+> alpha 20-11-2024 (in seara asta plec la ambasada)
+- bug fix la quests, daca sunt inregistrate doar 3 quest uri, iar jucatorul are nevoie de 5, sv nu mai primeste freeze
+- bug fix la cele 2 questuri de la NetheriteQuest
+- bug fix la miner, am restabilit zona unde poti sparge
+- am adaugat TradeCompleteEvent
+- am adaugat quest uri noi pt Gambling si Trade
+- am inceput sa dau un update comenzilor de /debug, dar nu cred ca le voi termina vreodata
+- acm daca esti in war poti sa ti dai upgrade la armura cu netherite chiar daca nu ai nivelul necesar
+- daca e in tutorial sa nu poata inchide UI-ul de la sell fish/farmer
+- in protectie nu mai poti interactiona cu nimic

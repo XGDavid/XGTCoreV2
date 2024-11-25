@@ -196,6 +196,7 @@
 
 
 ***
+
 > alpha 20-11-2024 (in seara asta plec la ambasada)
 - bug fix la quests, daca sunt inregistrate doar 3 quest uri, iar jucatorul are nevoie de 5, sv nu mai primeste freeze
 - bug fix la cele 2 questuri de la NetheriteQuest
@@ -206,3 +207,15 @@
 - acm daca esti in war poti sa ti dai upgrade la armura cu netherite chiar daca nu ai nivelul necesar
 - daca e in tutorial sa nu poata inchide UI-ul de la sell fish/farmer
 - in protectie nu mai poti interactiona cu nimic
+
+***
+
+> alpha 26-11-2024
+- bug fix la /setgroup
+- bug fix la /fly
+- am adaugat particule in spawner(doar cand pui spawnerul jos, nush ce are de dispar dupa, pis pe el NBT)
+- bug fix la combat isTagged(se apela functia la secunda dupa ce loveai pe cineva din cauza scoreboard ului)
+- bug fix la butonul de dungeon(level<reborn)
+- am adugat la crate o animatie in care iti arata itemul (thanks Hebbinkpro\MagicCrates)
+- bug fix la pozitia camerelor la crate animation
+- am inceput in /stats -> skills

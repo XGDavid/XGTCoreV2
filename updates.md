@@ -208,6 +208,7 @@
 - daca e in tutorial sa nu poata inchide UI-ul de la sell fish/farmer
 - in protectie nu mai poti interactiona cu nimic
 
+
 ***
 
 > alpha 26-11-2024
@@ -219,3 +220,15 @@
 - am adugat la crate o animatie in care iti arata itemul (thanks Hebbinkpro\MagicCrates)
 - bug fix la pozitia camerelor la crate animation
 - am inceput in /stats -> skills
+
+
+***
+
+> alpha 28-11-2024
+- am adaugat skill si la quest uri, daca ai skill 2 primesti +1 activity point
+- adaugate prices in normal shop
+- buff la kit uri
+- am adaugat 2 comenzi noi in debug(changeState si testCrate)
+- am adaugat CONSTante pt tickete sa fie mai usor
+- fixat textul de la crate uri
+- reparat ceva la war(sper sa nu mai dea crash), resetarea mapei doar dupa 5secunde

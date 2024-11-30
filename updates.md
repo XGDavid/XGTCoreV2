@@ -232,3 +232,16 @@
 - am adaugat CONSTante pt tickete sa fie mai usor
 - fixat textul de la crate uri
 - reparat ceva la war(sper sa nu mai dea crash), resetarea mapei doar dupa 5secunde
+
+
+***
+
+> alpha 30-11-2024
+- niste modificari la Tutorial(obiective 28-11-2024)
+- am scos UI ul automat de la fisher(probabil pe viitor o bag din nou cu closeAll)
+- am incercat niste fix in setHaybaleBlock(farmer) 
+- getRecord nou in GamblingManager(obiective 28-11-2024)
+- nu mai poti intra in dungeon daca deja e playing
+- bug fix la /casino cand nu ti arata si scorul cand pierzi
+- am adaugat defaultEntity
+- bug fix la pvp

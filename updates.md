@@ -245,3 +245,12 @@
 - bug fix la /casino cand nu ti arata si scorul cand pierzi
 - am adaugat defaultEntity
 - bug fix la pvp
+
+
+***
+
+> alpha 01-12-2024
+- am adaugat BuyRankEvent
+- am adaugat buyRank si daily/weekly rewards pt rankuri
+- am facut o schimbare in TimeTask, adaug un event special pt player, pt a putea folosi mai usor(trebuie testata performanta)
+- am inceput sa lucrez la sistemul de blacksmith

@@ -254,3 +254,14 @@
 - am adaugat buyRank si daily/weekly rewards pt rankuri
 - am facut o schimbare in TimeTask, adaug un event special pt player, pt a putea folosi mai usor(trebuie testata performanta)
 - am inceput sa lucrez la sistemul de blacksmith
+
+
+***
+
+> alpha 07-12-2024
+- am adaugat la toate functiile un return(:void/:int/:string etc) automat din PhpStorm(sper ca nu a gresit cv)
+- am adaugat in /give optiunea de selecta toti playeri (all, *, @a)
+- am adaugat Server Currency in Systems (1 EURO = 100 GOLD COINS)
+- am adaugat in /systems donation/confirm/bonus
+- am adaugat ca atunci cand cineva doneaza sa apara un embed pe discord si un mesaj in chat
+- continui lucrul la sistemul de blacksmith si cel de care e legat(blanaaaaaa!!!!!)

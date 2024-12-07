@@ -269,4 +269,5 @@
 - am adaugat ID ul in /stats
 - am adaugat sa poti da /stats player
 - am adaugat PlayerRebornEvent
+- am adaugat sistem de referali
 

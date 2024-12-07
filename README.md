@@ -18,14 +18,15 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 05-05-2024 | Am bagat muzica, am facut Area System\
 30-06-2024 | Am bagat dungeon, ma facut alt job, bug fix, SQL Injection protect\
 17-07-2024 | Am adaugat Daily Quest-uri, am fuzionat Vote Points si Quest Points in Activity Points\
-01-11-2024 | In ultimul timp am facut la Clan War, Activity Points, Bug Fixs si mai multe, gasiti toate change logs in fisierul updates 
+01-11-2024 | In ultimul timp am facut la Clan War, Activity Points, Bug Fixs si mai multe, gasiti toate change logs in fisierul updates \
+07-12-2024 | Am luat domeniu si de cateva zile am inceput sistemul de Blacksmith care mi-a dat o idee GENIALA
 
 ***
 
-> ## **Todo** 
+> ## **Todo/Server Systems** 
 
 - [x] Systems
-  - [x] Mots | 01-11-2024
+  - [x] Motd | 01-11-2024
   - [x] Activity Stock | 23-10-2024
   - [x] Whitelist | 09-11-2024
 - [x] Text
@@ -94,7 +95,9 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] OPGoldenApple, GoldenApple, EnderPearl CD | 18-07-2024
 - [x] Spawners | 25-07-2024
 - [x] Wither | 13-07-2024
-- [x] Trade | 01-08-2024 
+- [x] Trade | 01-08-2024
+- [ ] Blacksmith | 70% 06-12-2024 
+- [x] Referral | 07-12-2024
 
 
 ***

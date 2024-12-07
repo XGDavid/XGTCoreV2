@@ -142,7 +142,7 @@
 ***
 
 > alpha 09-11-2024
-> - am terminat /systems whitelist (ceva basic)
+- am terminat /systems whitelist (ceva basic)
 - am scos din reward urile de la dungoen Rocket Fragments(le vom adauga in viitor)
 - am adaugat un lore informativ la spawner frag si core
 
@@ -265,3 +265,8 @@
 - am adaugat in /systems donation/confirm/bonus
 - am adaugat ca atunci cand cineva doneaza sa apara un embed pe discord si un mesaj in chat
 - continui lucrul la sistemul de blacksmith si cel de care e legat(blanaaaaaa!!!!!)
+- am adaugat sa primesti si Role pe discord automat cand cumperi rank
+- am adaugat ID ul in /stats
+- am adaugat sa poti da /stats player
+- am adaugat PlayerRebornEvent
+

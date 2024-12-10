@@ -97,7 +97,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Wither | 13-07-2024
 - [x] Trade | 01-08-2024
 - [ ] Blacksmith | 70% 06-12-2024 
-- [x] Referral | 07-12-2024
+- [x] Referral | 07-12-2024 | 10-12-2024 100%
 
 
 ***

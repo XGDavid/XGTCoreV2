@@ -271,3 +271,13 @@
 - am adaugat PlayerRebornEvent
 - am adaugat sistem de referali
 
+
+***
+
+> alpha 10-12-2024
+- am adaugat o functie noua in LevelManager(getNextSpecialLevel)
+- am adaugat 2 functii noi in Account(getLevelById, getRebornById)
+- am adaugat analytics la referral
+- bug fix la /take
+- am terminat sistemul de referral
+

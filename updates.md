@@ -281,3 +281,10 @@
 - bug fix la /take
 - am terminat sistemul de referral
 
+
+***
+
+> alpha 12-12-2024
+- am adaugat entitate la blacksmith
+- am facut ca la FirstDailyEvent sa ti scada fatigue in functie de rank
+

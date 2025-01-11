@@ -288,3 +288,14 @@
 - am adaugat entitate la blacksmith
 - am facut ca la FirstDailyEvent sa ti scada fatigue in functie de rank
 
+
+***
+
+> alpha 11-01-2025
+- update la pmmp
+- bug fix camera
+- enchant effect
+- xuid check
+- enchant book check
+- trambulina la pvp
+- bug fix la itemele pe ID(key si pot)

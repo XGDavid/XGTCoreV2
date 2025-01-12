@@ -299,3 +299,16 @@
 - enchant book check
 - trambulina la pvp
 - bug fix la itemele pe ID(key si pot)
+
+
+***
+
+> alpha 12-01-2025
+- busola la war
+- ceva claim gift
+- bug fix camera
+- enchant effect
+- xuid check
+- enchant book check
+- trambulina la pvp
+- bug fix la itemele pe ID(key si pot)

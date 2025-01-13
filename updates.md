@@ -312,3 +312,15 @@
 - enchant book check
 - trambulina la pvp
 - bug fix la itemele pe ID(key si pot)
+
+
+***
+
+> alpha 14-01-2025
+- am adaugat isSpecial (daca are VIP si GOLD)
+- getRankColor adaugat in GroupsManager
+- TextManager::updateNametag added
+- am facut la blacksmith sansele
+- am adaugat un getMaxFatigue in functie de rank
+- un mic buff la rank
+- am adaugat repair la blacksmith

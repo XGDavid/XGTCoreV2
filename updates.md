@@ -324,3 +324,13 @@
 - am adaugat un getMaxFatigue in functie de rank
 - un mic buff la rank
 - am adaugat repair la blacksmith
+
+
+***
+
+> alpha 16-01-2025
+- am adaugat custom items
+- am adaugat map fragments
+- am adaugat traveler npc 
+- am adaugat poveste 
+- am facut sistem de waypoint

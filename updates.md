@@ -332,5 +332,10 @@
 - am adaugat custom items
 - am adaugat map fragments
 - am adaugat traveler npc 
-- am adaugat poveste 
+- am adaugat storymode pentru insula 
 - am facut sistem de waypoint
+
+***
+
+> alpha 17-01-2025
+- am adaugat sistem de mark

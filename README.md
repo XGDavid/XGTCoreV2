@@ -19,7 +19,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 30-06-2024 | Am bagat dungeon, ma facut alt job, bug fix, SQL Injection protect\
 17-07-2024 | Am adaugat Daily Quest-uri, am fuzionat Vote Points si Quest Points in Activity Points\
 01-11-2024 | In ultimul timp am facut la Clan War, Activity Points, Bug Fixs si mai multe, gasiti toate change logs in fisierul updates \
-07-12-2024 | Am luat domeniu si de cateva zile am inceput sistemul de Blacksmith care mi-a dat o idee GENIALA
+07-12-2024 | Am luat domeniu si de cateva zile am inceput sistemul de Blacksmith care mi-a dat o idee GENIALA\
+18-01-2025 | RUPERE, sistem de Waypoint, de Marks, am inceput si cu Storymode-ul pe Island. NEBUNIEEEEE!!!!!
 
 ***
 
@@ -65,7 +66,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Afk 24-05-2024
   - [x] Daily Activity 25-05-2024
 - [ ] Battlepas
-- [ ] Storymode
+- [ ] Storymode | 10% 18-01-2025
 - [x] Crates | 17-07-2024
 - [x] Vote | 26-05-2024
 - [x] Events Messages | 19-11-2024

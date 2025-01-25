@@ -335,7 +335,17 @@
 - am adaugat storymode pentru insula 
 - am facut sistem de waypoint
 
+
 ***
 
 > alpha 17-01-2025
 - am adaugat sistem de mark
+
+
+***
+
+> alpha 24-01-2025
+- am terminat Auction House(22-01-2025)
+- am terminat a doua misiune de pe insula
+- am adaugat no fall dmg la pvp
+- am adaugat taxe la auction house si mici schimbari

@@ -349,3 +349,18 @@
 - am terminat a doua misiune de pe insula
 - am adaugat no fall dmg la pvp
 - am adaugat taxe la auction house si mici schimbari
+
+
+***
+
+> alpha 08-02-2025
+- am terminat sistemul de battlepass
+- am optimizat time managerul
+- am adaugat cache uri
+- am adaugat LuckyFishCatchEvent
+- am adaugat DungeonHelper
+- am adaugat FisherHelper
+- am adaugat MinerHelper
+- am adaugat FarmerHelper
+- am adaugat PlayerWinWarEvent
+- am adaugat PlayerParticipateWarEvent

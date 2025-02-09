@@ -353,7 +353,7 @@
 
 ***
 
-> alpha 08-02-2025
+> alpha 07-02-2025
 - am terminat sistemul de battlepass
 - am optimizat time managerul
 - am adaugat cache uri
@@ -364,3 +364,16 @@
 - am adaugat FarmerHelper
 - am adaugat PlayerWinWarEvent
 - am adaugat PlayerParticipateWarEvent
+
+
+***
+
+> alpha 08-02-2025
+- am adaugat map frag cand omori boss ul de la dungeon
+- zona mai mare la waypoint de pe insula
+- am adaugat protectie pe insula
+- am scos slowness ul dupa ce iei 6haybale de la farmer
+- text fix la fisher(catching..)
+- depsawn traveler npc de pe insula
+- nerf dungeon mobs dmg, buff xp drop
+- zid la dungeon quest complet

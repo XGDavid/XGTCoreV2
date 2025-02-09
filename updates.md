@@ -377,3 +377,9 @@
 - depsawn traveler npc de pe insula
 - nerf dungeon mobs dmg, buff xp drop
 - zid la dungeon quest complet
+
+
+***
+
+> alpha 09-02-2025
+- dungeon bug fix la armura sa dispara cand mori

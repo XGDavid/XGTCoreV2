@@ -383,3 +383,10 @@
 
 > alpha 09-02-2025
 - dungeon bug fix la armura sa dispara cand mori
+
+
+***
+
+> alpha 10-02-2025
+- am adaugat tutorial skip
+- small text fixs

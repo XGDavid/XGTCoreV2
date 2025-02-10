@@ -35,6 +35,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Economy
 - [x] Level
 - [x] Settings
+   - [ ] Update
 - [x] Tickets
 - [x] Groups
 - [x] Ranks
@@ -43,11 +44,13 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Fisher
   - [x] Farmer
   - [x] Miner 12-05-2024
+  - [ ] Job Goal
 - [x] Logs
   - [x] updated | 20-06-2023
   - [x] ip | 30-06-2024
 - [x] Clan | working | -> 60% 24-06-2023 | 90% 01-07-2023  | 05-03-2024
   - [x] Big Update Clan War | 30-10-2024
+  - [ ] Clan Update(clan icon)
 - [x] Database update(player data, clan data, jobs data) | 16-06-2023
   - [x] BIG DATA BASE UPDATE sql injection protect | 30-06-2024
 - [x] Teleport
@@ -65,8 +68,9 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Player Activity(online time) | 24-05-2024
   - [x] Afk 24-05-2024
   - [x] Daily Activity 25-05-2024
-- [ ] Battlepas
-- [ ] Storymode | 10% 18-01-2025
+- [x] Battlepas | 07-02-2025
+- [ ] Storymode | 10% 18-01-2025 
+  - [x] Island Storymode ~25% 10-02-2025
 - [x] Crates | 17-07-2024
 - [x] Vote | 26-05-2024
 - [x] Events Messages | 19-11-2024
@@ -95,10 +99,27 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] CombatLogger | 18-07-2024
   - [x] OPGoldenApple, GoldenApple, EnderPearl CD | 18-07-2024
 - [x] Spawners | 25-07-2024
+   - [ ] Update
 - [x] Wither | 13-07-2024
 - [x] Trade | 01-08-2024
-- [ ] Blacksmith | 70% 06-12-2024 
+- [x] Blacksmith | 70% 06-12-2024 | 95% 13-01-2025
 - [x] Referral | 07-12-2024 | 10-12-2024 100%
+- [x] Waypoint | 16-01-2025
+- [x] Mark | 17-01-2025
+- [x] Auction House | 22-01-2025
+- [ ] PvP Update
+   - [ ] Bounty
+   - [ ] Events
+      - [ ] Minor events
+      - [ ] Major events
+- [ ] Season Pass
+- [ ] Bonus
+   - [ ] Gift codes
+   - [ ] Eastereggs
+- [ ] Accessories
+   - [ ] Kill effect
+   - [ ] Attack effect
+   - [ ] etc
 
 
 ***

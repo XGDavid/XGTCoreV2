@@ -387,6 +387,11 @@
 
 ***
 
+> alpha 12-02-2025
+- am adaugat mai multe tipuri de floating text
+
+***
+
 > alpha 10-02-2025
 - am adaugat tutorial skip
 - small text fixs

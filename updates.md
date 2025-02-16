@@ -390,8 +390,17 @@
 > alpha 12-02-2025
 - am adaugat mai multe tipuri de floating text
 
+
 ***
 
 > alpha 10-02-2025
 - am adaugat tutorial skip
 - small text fixs
+
+
+***
+
+> alpha 15-02-2025
+- am adaugat pvp manager (kills, deaths, kill streak)
+- am adaugat bounty
+- am fuzionat NotificationManager si ChatText in Notification

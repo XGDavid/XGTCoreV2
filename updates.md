@@ -404,3 +404,20 @@
 - am adaugat pvp manager (kills, deaths, kill streak)
 - am adaugat bounty
 - am fuzionat NotificationManager si ChatText in Notification
+
+
+***
+
+> alpha 16-02-2025
+- am adaugat la bounty nametag si efecte
+- am adaugat setari noi in /settings
+- am adaugat hp indicator
+- modificat build ul de la pvp
+- adaugat inca o trembulina la pvp
+- BUG FIX la floating text(regandite entitatile)
+- cand dai skip la tutorial iti dispare bossbar ul
+- nerf la dungeon mobs
+- am adaugat zarurile in dice
+- /zones din GUI in UI
+- remove fixform
+- bug fix la scoreboard

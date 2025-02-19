@@ -421,3 +421,15 @@
 - /zones din GUI in UI
 - remove fixform
 - bug fix la scoreboard
+
+
+***
+
+> alpha 19-02-2025
+- sa poti da /tutorial in tutorial
+- bug fix dupa ce dai tutorial skip si start din nou
+- am adaugat in DefaultsManager un checkPlayerIsIn
+- acum poti sa iesi din dungeon cu /dungeon
+- am inceput un system de cosmetics
+- am adaugat colorated nicknames
+- am facut modificari la updateNametag

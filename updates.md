@@ -433,3 +433,13 @@
 - am inceput un system de cosmetics
 - am adaugat colorated nicknames
 - am facut modificari la updateNametag
+
+
+***
+
+> alpha 20-02-2025
+- am modificat timpul al /fish dupa ce ai dat fail 10 -> 5
+- am adaugat K/D in stats
+- am adaugat Gems(o sa fie folosite pentru cosmetice)
+- am adaugat in RandomUtils::number(int) (nu stiu de ce n am facut asta de la inceput)
+- am facut KillMessages si KillScreenText

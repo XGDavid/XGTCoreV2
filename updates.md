@@ -443,3 +443,26 @@
 - am adaugat Gems(o sa fie folosite pentru cosmetice)
 - am adaugat in RandomUtils::number(int) (nu stiu de ce n am facut asta de la inceput)
 - am facut KillMessages si KillScreenText
+
+
+***
+
+> beta 21-02-2025
+- am adaugat noul shop
+- am modificat zona la /fish
+- am adaugat min level la /ah
+- bug fix de text la /dice
+- am adaugat UI ul pt insula
+- am adaugat /bounties
+- am adaugat /tpa pe chat
+- bug fix la create island
+- am adaugat mai multe verificari la checkPlayerIsIn
+- bug fix island first mission
+- am adaugat break flag la Mark
+- am schimbat din MarkPosition in MarkLocation
+- am adaugat Mark uri in tutorial
+- am adaugat /anno
+- am adaugat mesaje informative
+- reparat bug /pay
+- adaugat protectie pt PHP_INT_MAX
+- reparat un sql

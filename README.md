@@ -20,7 +20,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 17-07-2024 | Am adaugat Daily Quest-uri, am fuzionat Vote Points si Quest Points in Activity Points\
 01-11-2024 | In ultimul timp am facut la Clan War, Activity Points, Bug Fixs si mai multe, gasiti toate change logs in fisierul updates \
 07-12-2024 | Am luat domeniu si de cateva zile am inceput sistemul de Blacksmith care mi-a dat o idee GENIALA\
-18-01-2025 | RUPERE, sistem de Waypoint, de Marks, am inceput si cu Storymode-ul pe Island. NEBUNIEEEEE!!!!!
+18-01-2025 | RUPERE, sistem de Waypoint, de Marks, am inceput si cu Storymode-ul pe Island. NEBUNIEEEEE!!!!!\
+21-02-2025 | Am deschis server-ul in Open-Beta, o zi foarte foarte obositoare
 
 ***
 

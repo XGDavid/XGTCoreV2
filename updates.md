@@ -466,3 +466,18 @@
 - reparat bug /pay
 - adaugat protectie pt PHP_INT_MAX
 - reparat un sql
+
+
+***
+
+> beta 24-02-2025
+- am adaugat label uri la /c
+- am reparat timpul nou(lipseau 2 taskuri)
+- am adaugat commands in groups si am mutat comenzile acolo
+- daca ai ytb mode on sa nu mai vezi Admin Notifications
+- am adaugat /cc
+- nerf la boss king si quest mobs din dungeon
+- cred ca am scos toate error_log urile
+- am adaugat comenzi de /area
+- am fuzionat Combat si Pvp -> Pvp
+- am adaugat ceva verificari pt tnt uri

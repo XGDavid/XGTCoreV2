@@ -21,7 +21,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 01-11-2024 | In ultimul timp am facut la Clan War, Activity Points, Bug Fixs si mai multe, gasiti toate change logs in fisierul updates \
 07-12-2024 | Am luat domeniu si de cateva zile am inceput sistemul de Blacksmith care mi-a dat o idee GENIALA\
 18-01-2025 | RUPERE, sistem de Waypoint, de Marks, am inceput si cu Storymode-ul pe Island. NEBUNIEEEEE!!!!!\
-21-02-2025 | Am deschis server-ul in Open-Beta, o zi foarte foarte obositoare
+21-02-2025 | Am deschis server-ul in Open-Beta, o zi foarte foarte obositoare\
+25-02-2025 | Am dat rework la Farmer Job
 
 ***
 
@@ -44,6 +45,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Jobs
   - [x] Fisher (undeva prin mai 2023 pe pm4)
   - [x] Farmer
+    - [x] REWORKED 25-02-2025 
   - [x] Miner 12-05-2024
   - [ ] Job Goal
 - [x] Logs

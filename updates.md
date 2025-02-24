@@ -481,3 +481,13 @@
 - am adaugat comenzi de /area
 - am fuzionat Combat si Pvp -> Pvp
 - am adaugat ceva verificari pt tnt uri
+
+
+
+***
+
+> beta 25-02-2025
+- am arhivat job farmer vechi
+- am dat REWORK la Farmer Job
+- acum poti zbura si la farmer job
+- am adaugat sound atunci cand nu poti sa spargi un block in protectie

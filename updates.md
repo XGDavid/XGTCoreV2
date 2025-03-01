@@ -483,7 +483,6 @@
 - am adaugat ceva verificari pt tnt uri
 
 
-
 ***
 
 > beta 25-02-2025
@@ -491,3 +490,20 @@
 - am dat REWORK la Farmer Job
 - acum poti zbura si la farmer job
 - am adaugat sound atunci cand nu poti sa spargi un block in protectie
+
+
+***
+
+> beta 01-03-2025
+- am adaugat in systems sa poti dezactiva Dungeon, Gambling, Jobs
+- am modificat questurile si misiunile pentru noul job farmer
+- am adaugat rewardurile la Diamond Crate
+- am adaugat smithing table functional (ceva skema)
+- de acum la Blacksmith iti dai upgrade la itemele de diamond -> netherite (min lvl: 25)
+- am adaugat pe server NETHERITE UPGRADE TEMPLATE
+- am adaugat pe server ARMOR TRIM uri
+- am sters NetheriteManager 
+- am adaugat NetheriteUtils
+- am adaugat in War Events metoda veche de Netherite Upgrade
+- am adaugat cand se spawneaza Skeleton King sa se auda mob.skeleton.convert_to_stray
+- am schimbat la job farmer din 32->64

@@ -507,3 +507,14 @@
 - am adaugat in War Events metoda veche de Netherite Upgrade
 - am adaugat cand se spawneaza Skeleton King sa se auda mob.skeleton.convert_to_stray
 - am schimbat la job farmer din 32->64
+
+
+***
+
+> beta 13-03-2025
+- am inceput sistemul de socketuri
+- am adaugat health boost socket
+- am adaugat Job boost socket
+- am adaugat XP boost socket
+- am fixat XP boost ticketul (acum e functional)
+- am adaugat peste tot constant de TICKETS din Manager(pana acum scriai manual numele ticketului)

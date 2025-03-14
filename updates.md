@@ -518,3 +518,13 @@
 - am adaugat XP boost socket
 - am fixat XP boost ticketul (acum e functional)
 - am adaugat peste tot constant de TICKETS din Manager(pana acum scriai manual numele ticketului)
+
+
+***
+
+> beta 14-03-2025
+- am modificat la kit uri sa ti dea prima data tools dupa armor
+- am adaugat Activity Crate Socket
+- am adaugat Negative Effect Reduction Socket
+- am adaugat Blindness, Weakness, Hunger, Diamond Crate, Dungeon Crate, Void Crate, BattlePass Socket
+- am terminat sistemul de Sockets

@@ -528,3 +528,10 @@
 - am adaugat Negative Effect Reduction Socket
 - am adaugat Blindness, Weakness, Hunger, Diamond Crate, Dungeon Crate, Void Crate, BattlePass Socket
 - am terminat sistemul de Sockets
+
+
+***
+
+> beta 15-03-2025
+- am adaugat Runner Socket(speed out of combat)
+- am adaugat in Notification screenAnimation si lighting

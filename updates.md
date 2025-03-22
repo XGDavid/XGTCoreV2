@@ -545,3 +545,16 @@
 - am adaugat log uri de Give
 - am adaugat log uri de Crate
 - am adaugat reward urile la crate dungeon
+
+
+***
+
+> beta 22-03-2025
+- am adaugat reward urile la void crate
+- am adaugat cratelogs la toate reward urile de la crate uri
+- am adaugat PlayerGainActivityPointsEvent
+- am schimbat in CrateBattlePass si in BattlePassMission treaba cu id urile(am adaugat un documentar la ce am facut)
+- am adaugat misiuniile pentru battlepass week 1
+- am adaugat PlayerGainBountyEvent
+- am adaugat PlayerClaimBountyEvent
+- bug fix la PlayerFarmerCollectEvent

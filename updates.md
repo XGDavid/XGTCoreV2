@@ -535,3 +535,13 @@
 > beta 15-03-2025
 - am adaugat Runner Socket(speed out of combat)
 - am adaugat in Notification screenAnimation si lighting
+
+
+***
+
+> beta 20-03-2025
+- am adaugat Kill Effects
+- am adauga research pentru cosmetice
+- am adaugat log uri de Give
+- am adaugat log uri de Crate
+- am adaugat reward urile la crate dungeon

@@ -558,3 +558,14 @@
 - am adaugat PlayerGainBountyEvent
 - am adaugat PlayerClaimBountyEvent
 - bug fix la PlayerFarmerCollectEvent
+
+
+***
+
+> beta 04-04-2025
+- am adaugat webhook uri cu log uri
+- am adaugat max level la enchanted book upgrade in blacksmith
+- am adaugat mai multe verificari in BlacksmithSession
+- am adaugat convertToRoman
+- am adaugat enchanter
+- am facut niste modificari in ExperimentsManager

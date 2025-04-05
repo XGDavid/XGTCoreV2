@@ -569,3 +569,13 @@
 - am adaugat convertToRoman
 - am adaugat enchanter
 - am facut niste modificari in ExperimentsManager
+
+
+***
+
+> beta 06-04-2025
+- am adaugat Skill la Enchanter
+- am facut modificari la cum primeste Random Enchanted Books
+- am adaugat Research Enchanted Book
+- am adaugat Research Booster (sanse de 100% succes la research)
+- am adaugat meniul pentru Research

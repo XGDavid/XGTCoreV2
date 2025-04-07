@@ -22,7 +22,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 07-12-2024 | Am luat domeniu si de cateva zile am inceput sistemul de Blacksmith care mi-a dat o idee GENIALA\
 18-01-2025 | RUPERE, sistem de Waypoint, de Marks, am inceput si cu Storymode-ul pe Island. NEBUNIEEEEE!!!!!\
 21-02-2025 | Am deschis server-ul in Open-Beta, o zi foarte foarte obositoare\
-25-02-2025 | Am dat rework la Farmer Job
+25-02-2025 | Am dat rework la Farmer Job\
+08-04-2025 | Ne apropiem de deschiderea oficiala
 
 ***
 
@@ -111,18 +112,19 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Mark | 17-01-2025
 - [x] Auction House | 22-01-2025
 - [ ] PvP Update
-   - [ ] Bounty
+   - [x] Bounty | 15-02-2025
    - [ ] Events
-      - [ ] Minor events
-      - [ ] Major events
+      - [x] Mini KOTH | 08-02-2025
+      - [ ] Cake
 - [ ] Season Pass
 - [ ] Bonus
    - [ ] Gift codes
    - [ ] Eastereggs
-- [ ] Accessories
-   - [ ] Kill effect
-   - [ ] Attack effect
+- [x] Accessories
+   - [x] Kill effect | 20-03-2025
+   - [x] Kill messages | 19-02-2025
    - [ ] etc
+- [x] Referral | 10-12-2024
 
 
 ***

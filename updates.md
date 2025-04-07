@@ -579,3 +579,10 @@
 - am adaugat Research Enchanted Book
 - am adaugat Research Booster (sanse de 100% succes la research)
 - am adaugat meniul pentru Research
+
+
+***
+
+> beta 08-04-2025
+- am facut functionala functia sendCrateAnno(exista si nu era folosita) acum trimite un mesaj daca rewardul era cu sansa mai mica de 25%
+- am inceput sa lucrez la pvp update(am facut mini koth)

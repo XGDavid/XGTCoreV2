@@ -586,3 +586,13 @@
 > beta 08-04-2025
 - am facut functionala functia sendCrateAnno(exista si nu era folosita) acum trimite un mesaj daca rewardul era cu sansa mai mica de 25%
 - am inceput sa lucrez la pvp update(am facut mini koth)
+
+
+***
+
+> beta 09-04-2025
+- am adaugat Minigames
+- am adaugat la Minigames: Cake, Beast si KOTL
+- am adus modificari la ClanEvents
+- am adaugat copy si paste in debug cu state id uri in functie de coordonate
+- ceva bug fixs

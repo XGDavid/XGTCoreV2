@@ -114,8 +114,10 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [ ] PvP Update
    - [x] Bounty | 15-02-2025
    - [ ] Events
-      - [x] Mini KOTH | 08-02-2025
-      - [ ] Cake
+      - [x] Mini KOTH | 08-04-2025
+      - [x] Cake | 09-04-2025
+      - [x] Beast | 09-04-2025
+      - [x] KOTL | 09-04-2025
 - [ ] Season Pass
 - [ ] Bonus
    - [ ] Gift codes

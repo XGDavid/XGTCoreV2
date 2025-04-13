@@ -596,3 +596,19 @@
 - am adus modificari la ClanEvents
 - am adaugat copy si paste in debug cu state id uri in functie de coordonate
 - ceva bug fixs
+
+
+***
+
+> beta 13-04-2025
+- am adaugat sounds la minigameuri
+- am adaugat build prin spawn
+- am reparat fly ul
+- am adaugat Languages
+- am facut tutorialul nou
+- update la TeleportToIslandEvent si TeleportTask sa fie mai practic
+- am adaugat la Beast Mode inca un effect clear Darkness
+- am adaugat o misiune noua pe insula
+- am adaugat wizard tower pe insula
+- am setat mobii in dungeon
+- am adaugat sa nu poti trage cu arcul in protectie

@@ -612,3 +612,12 @@
 - am adaugat wizard tower pe insula
 - am setat mobii in dungeon
 - am adaugat sa nu poti trage cu arcul in protectie
+
+
+***
+
+> beta 14-04-2025
+- am facut update la Waypoint
+- am adaugat floating pt farmer
+- am adaugat border la harta (20.000x20.000)
+- ver si pl devin publice, nu avem ce ascunde

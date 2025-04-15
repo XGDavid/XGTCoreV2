@@ -621,3 +621,11 @@
 - am adaugat floating pt farmer
 - am adaugat border la harta (20.000x20.000)
 - ver si pl devin publice, nu avem ce ascunde
+
+
+***
+
+> beta 15-05-2025
+- am adaugat joined si age in db (player)
+- am adaugat anticheat(ZURI) celalalt nu e testat pe pmmp
+- am inceput implementarea noilor spawnere(v2, dar o sa fac main v3)

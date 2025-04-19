@@ -23,7 +23,8 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 18-01-2025 | RUPERE, sistem de Waypoint, de Marks, am inceput si cu Storymode-ul pe Island. NEBUNIEEEEE!!!!!\
 21-02-2025 | Am deschis server-ul in Open-Beta, o zi foarte foarte obositoare\
 25-02-2025 | Am dat rework la Farmer Job\
-08-04-2025 | Ne apropiem de deschiderea oficiala
+08-04-2025 | Ne apropiem de deschiderea oficiala\
+18-04-2025 | Am deschis serverul oficial(un mic fail, dar macar n a picat :D) 
 
 ***
 
@@ -73,7 +74,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Afk 24-05-2024
   - [x] Daily Activity 25-05-2024
 - [x] Battlepas | 07-02-2025
-- [ ] Storymode | 10% 18-01-2025 
+- [ ] Storymode | 10% 18-01-2025 | 15% 18-04-2025
   - [x] Island Storymode ~25% 10-02-2025
 - [x] Crates | 17-07-2024
 - [x] Vote | 26-05-2024
@@ -103,7 +104,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] CombatLogger | 18-07-2024
   - [x] OPGoldenApple, GoldenApple, EnderPearl CD | 18-07-2024
 - [x] Spawners | 25-07-2024
-   - [ ] Update
+   - [x] Update | 18-04-2025
 - [x] Wither | 13-07-2024
 - [x] Trade | 01-08-2024
 - [x] Blacksmith | 70% 06-12-2024 | 95% 13-01-2025
@@ -111,17 +112,17 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
 - [x] Waypoint | 16-01-2025
 - [x] Mark | 17-01-2025
 - [x] Auction House | 22-01-2025
-- [ ] PvP Update
+- [x] PvP Update
    - [x] Bounty | 15-02-2025
-   - [ ] Events
+   - [x] Events
       - [x] Mini KOTH | 08-04-2025
       - [x] Cake | 09-04-2025
       - [x] Beast | 09-04-2025
       - [x] KOTL | 09-04-2025
 - [ ] Season Pass
-- [ ] Bonus
+- [ ] Bonus 
    - [ ] Gift codes
-   - [ ] Eastereggs
+   - [x] Eastereggs | 19-04-2025
 - [x] Accessories
    - [x] Kill effect | 20-03-2025
    - [x] Kill messages | 19-02-2025

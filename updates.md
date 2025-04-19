@@ -625,6 +625,30 @@
 
 ***
 
+> beta 19-04-2025
+- am adaugat spawnerele noi V4(m au omorat, inca nu merg cum trebuie)
+- bug fix la clan plot draw
+- am adaugat easter eggs
+- am adaugat sa poti sparge spawnerele pe protectie de fac
+- bug fix la tutorial dungeon(nu puteai avansa, acum trb reparati nr de mobi)
+- am adaugat /info(/help)
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+- bug fixs
+***
+
 > beta 15-05-2025
 - am adaugat joined si age in db (player)
 - am adaugat anticheat(ZURI) celalalt nu e testat pe pmmp

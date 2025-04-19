@@ -625,6 +625,14 @@
 
 ***
 
+> beta 15-05-2025
+- am adaugat joined si age in db (player)
+- am adaugat anticheat(ZURI) celalalt nu e testat pe pmmp
+- am inceput implementarea noilor spawnere(v2, dar o sa fac main v3)
+
+
+***
+
 > beta 19-04-2025
 - am adaugat spawnerele noi V4(m au omorat, inca nu merg cum trebuie)
 - bug fix la clan plot draw
@@ -647,9 +655,3 @@
 - bug fixs
 - bug fixs
 - bug fixs
-***
-
-> beta 15-05-2025
-- am adaugat joined si age in db (player)
-- am adaugat anticheat(ZURI) celalalt nu e testat pe pmmp
-- am inceput implementarea noilor spawnere(v2, dar o sa fac main v3)

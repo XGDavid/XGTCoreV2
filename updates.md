@@ -655,3 +655,30 @@
 - bug fixs
 - bug fixs
 - bug fixs
+
+
+***
+
+> release 19-04-2025
+- am micit cat silver coins iti trebuie pt fisher skill up
+- am micit cat silver coins iti trebuie pt farmer skill up
+- am marit cat silver coins iti trebuie pt miner skill up(15.000 -> 30.000 ; 30.000->90.000)
+- am scazut pretul la expert rod 15 gold coins -> 5 gold coins
+- am modificat la unlock miner: farmer 200->300; fisher 200->150
+- am adaugat mai multe CONST uri in FisherHelper
+- am adaugat cand vinzi gold fish sa primesti 200 xp si cand vinzi orice alt fish sa primesti (1-4) xp in functie de tier
+- am adaugat atunci cand mulgi vaca(nu fail) o sa primesti (1-3) xp in functie de tier
+- am modificat clan create level 5->3; join clan level 3->1
+- am adaugat in shop mai multe iteme care se pot vinde
+- am adaugat zones noi in [/zones]
+- am adaugat ca urmatoarele iteme sa se poata vinde in shop (cobblestone, stone, wood logs etc)
+- am marit pretul de vanzare la anumite iteme din shop
+- am adaugat ca zilnic la daily join sa primesti Kit Silver Points
+- am modificat din YouTuber in Famous (deoarece sunt si tiktokeri)
+- buff la spawnerele de lvl 1 si 2(spawn speed 30->27; 25->23)
+- am scazut pretul de la expert pickaxe 15 gold coins -> 1 gold coins
+- am scazut pretul(in silver coins) de la pickaxe advanced(1.500->1.000) si pickaxe expert (3.000->2.000)
+- am crescut pretul(in fragments) la backpack advanced(1->7) si la backpack expert(1->7)
+- am crescut pretul(in silver coins) la backpack uri (basic: 3.000->5.000; advanced: 5.000->10.000; expert: 15.000->20.000)
+- am scazut XP multiplier la cristale (medium: 1.5->1.1; large: 2->1.5; big: 3->1.8)
+- bug fix in dungeon cu fly ul

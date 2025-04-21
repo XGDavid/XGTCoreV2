@@ -682,3 +682,25 @@
 - am crescut pretul(in silver coins) la backpack uri (basic: 3.000->5.000; advanced: 5.000->10.000; expert: 15.000->20.000)
 - am scazut XP multiplier la cristale (medium: 1.5->1.1; large: 2->1.5; big: 3->1.8)
 - bug fix in dungeon cu fly ul
+
+
+***
+
+> release 21-04-2025
+- am scos JobSellEvent si am facut cate un event separat de sell pentru fiecare job
+- am adaugat mai multe const uri in MinerHelper
+- am facut ca la Miner in sell menu sa ti apara doar crystalele pe care le ai, sa nu mai apara "-"
+- bug fix la quest urile legate de sell fish
+- daca esti staff mode / owner nu mai iei mute la comenzi
+- am scos 2 questuri (gain power si kit points collector)
+- am adaugat rewards logs
+- am dat nerf la rewards urile de la easter eggs
+- am adaugat XP la easter eggs cand dai claim
+- am adaugat efecte la claim egg
+- am dat buff la rank up silver coins (iti aduga la randmin si max + level ul tau)
+- am adaugat mai multe special levels(si la reborn specials)
+- am adaugat mai multe reward uri la levelup(special levels)
+- cand incepe un event la pvp, set fly flase to all
+- heal regen incressed la pvp events
+- am adaugat 2 floating text uri, la mineri si la spawn cu top players
+- am scazut pretul de upgrade clan deposit (50 -> 20 goldcoins)

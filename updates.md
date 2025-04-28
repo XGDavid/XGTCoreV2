@@ -704,3 +704,47 @@
 - heal regen incressed la pvp events
 - am adaugat 2 floating text uri, la mineri si la spawn cu top players
 - am scazut pretul de upgrade clan deposit (50 -> 20 goldcoins)
+
+
+***
+
+> release 29-04-2025
+- de acum poti scrie in tutorial
+- am facut butoanele de la toate joburile cu culoare
+- la fisher daca nu ai fragemntele necesare/level etc iti apare Unavailable automat
+- bug fix la sell rod expert
+- code improvment la randUI
+- code improvment la milkUI
+- am facut sell fish ul instant(nu mai trb sa confirmi)
+- bug fix la efectele de la miner
+- am readaugat teleport to mine at crystal respawn
+- nerf la goldfish
+- buff la silver fish (rand(53,99) -> rand(73,149) silver coins)
+- crescute sansele la silver fish de rod advanced si expert
+- buff la pufferfish (rand(11,22) -> rand(15,22) silver coins)
+- nerf la goldcoins de la miner
+- nerf la advanced fragments de la big crystal(0.04 -> 0.03)
+- buff small crystal price (rand(1,2) -> rand(1,3))
+- nerf la XP multiplier la crystale (large: 1.5->1.3; big: 1.8->1.6)
+- buff la special levelup rewards
+- am bagat hopperele
+- de acum iti poti face clan de la lvl 2 
+- cand esti in tutorial iti scrie in chat
+- dungeon join level 10 -> 3
+- buff pot xp basic 120 -> 200
+- buff pot xp orb 3 -> 12
+- buff dungeon buy from shop points 2 -> 10
+- buff dungeon shop gold coins -> activity points
+- buff dungeon shop prices reduced
+- nerf la elderul din room 4
+- buff la Skeleton King Boss
+- buff Skeleton King Boss Rewards (advanced frag 5 -> 10; expert frag 3 -> 5; random enchanted book 3 -> 4)
+- buff la vote activity points 2 -> 3
+- buff la vote, acum primesti si un activity crate key
+- nerf la PIGS (drop xp: rand(0,3) -> 0; drop RAW PORKCHOP: rand(0,3) -> rand(0,2))
+- de acum mobi se stacheaza si dupa ce au iesit din spawn
+- am scazut preturile din gold shop la: xp ticket 50 -> 30 gold coins; job ticket 50 -> 30 gold coins; dungeon forest key 50 -> 15 gold coins; diamond crate key 50 -> 30 gold coins; 
+- nerf la activity shop: vip account 30 -> 15 days; gold account 15 -> 7 days; kit master 100 -> 200 ap; cow core 40 -> 60 ap; zombie core 40 -> 70; skeleton core 40 -> 80 ap; creeper core 70 -> 140 ap; wither skeleton core 90 -> 190 ap
+- am adaugat crate activity in activity shop
+- buff la XP ticket 80% -> 100%
+- nametag ul de la mobi nu se mai vad prin pereti

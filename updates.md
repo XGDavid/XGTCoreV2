@@ -748,3 +748,13 @@
 - am adaugat crate activity in activity shop
 - buff la XP ticket 80% -> 100%
 - nametag ul de la mobi nu se mai vad prin pereti
+
+
+***
+> release 30-04-2025
+- bug fix la minigame iti oprea fly ul chiar daca nu erai in arena
+- am adaugat shop ul nou
+- buff la wither skeleton XP
+- heal in toata pvp arena cat sunt eventuri
+- nerf la toate kiturile la mancare (64 -> 10)
+- am schimbat pretul la majoritatea itemelor din shop

@@ -758,3 +758,21 @@
 - heal in toata pvp arena cat sunt eventuri
 - nerf la toate kiturile la mancare (64 -> 10)
 - am schimbat pretul la majoritatea itemelor din shop
+
+
+***
+> release 03-05-2025
+- buff la crate uri (Silver Bank Big Ticket 1.000 -> 5.000 silver coins, SIlver Bank Small Ticket 500 -> 1000 silver coins)
+- am adaugat la crate void Extra Big Ticket (10.000 silver coins)
+- bug fix la pozitia crate ului activity
+- preturile pestilor acum sunt in constante sa le putem folosi in alte parti
+- de acum apar si Activity Points in /stats
+- shop nerf  (Sweetberry: 3 silver coins/buc -> 2.5 silver coins/buc)
+- shop buff (Pumpkin: 4 silver coins/buc -> 5 silver coins/buc; Cactus: 0.25 silver coins/buc -> 0.5 silver coins/buc; Sugarcane: 0.33 silver coins/buc -> 0.41 silver coins/buc)
+- minigames buff (Cake: 1 silver coins/slice -> 2 silver coins/slice,  Beast: (hunter winners: top3: 400 silver coins -> 1000 silver coins; top1: +200 silver coins -> +500 silvern coins; beast winner: 700 silver coins -> 2000 silver coins); Mini Koth: (ticks 20 -> 18; winner: time * 5 -> time * 7) )
+- bounty buff 5 silver coins -> 15 silver coins
+- am adaugat niste informatii in /c daca nu ai clan
+- buff lotto win xp 300 -> 2000
+- reduced casino level required 5 -> 2
+- bug fix la dungeon boss reward
+- am adaugat /clan rank XP progress

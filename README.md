@@ -46,6 +46,7 @@ A new version of XGTCore with [@sLeeD](github.com/xXGeorgeXDR0)\
   - [x] Update 07-06-2024
 - [x] Jobs
   - [x] Fisher (undeva prin mai 2023 pe pm4)
+    - [x] REWORKED 25-05-2025
   - [x] Farmer
     - [x] REWORKED 25-02-2025 
   - [x] Miner 12-05-2024

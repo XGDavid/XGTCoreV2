@@ -784,3 +784,31 @@
 - am reparat questul "Milker"
 - am adauagt eventuri noi(PlayerNormalShopSpentEvent, PlayerGoldShopSpentEvent, PlayerSuccessfullyResearchEvent etc)
 - am modificat BattlePass manager sa nu mai foloseasca cache(cea mai mare porcarie pe care am facut o cu cahce)
+
+
+***
+> release 18-05-2025
+- bug fix la battlepass
+- am micit zona de la minigame ul CAKE
+- am marit profitul de la minigame ul CAKE 2 -> 3
+- am adaugat sa poti vinde cookie 0 -> 3
+- am adaugat sa poti vinde carnea prajita
+- bug fix la dungeon floating text
+- bug fix la ceva nume de tiere din BP
+- buff la dungeon socket 30% -> 50%
+- buff clan xp default XP get 100% -> 150%
+- dungeon key system reworked
+- buff dungeon forest pot reward(advanced fragments 1 -> 10; expert fragments 1 -> 5; xp bottle 8 -> 16; kit gold points 3 -> 5; dungeon crate key 3% -> 5%; )
+- buff dungeon forest boss reward(pig spawner core removed; silver coins: rand(700, 1200) -> rand(2000, 3000); enchanted random book 4 -> 8; forest dungeon key 2 -> 5)
+- dungeon forest buff (activty shop key 10 -> 4, trader prices are now all 20 activity points)
+- dungeon forest nerf (penalty points for team 20 -> 250; penalty points for player 120 -> 800; penalty fail 10 -> 500, trader reduce seconds removed)
+- buff void crate (golden apple 12 -> 32; zombie spawner core 15% -> 20%; creeper spawner core added with 15%)
+- buff dungeon crate (5 dungeon forest key added with 40%)
+- acum iti seteaza automat public chat dupa ce se termina un dungeon
+- anticheat added
+- am adaugat un rod la jobul fisher pe care poti da click 
+- fixed sa nu ti mai dea questurile de la miner daca nu le ai unlocked
+- battlepass missions bug fixed
+- o gramada de bug fixs
+- dungeon forest key price in activity shop 10 -> 4
+- dungeon forest key amount in gold shop 1 -> 2

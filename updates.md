@@ -812,3 +812,11 @@
 - o gramada de bug fixs
 - dungeon forest key price in activity shop 10 -> 4
 - dungeon forest key amount in gold shop 1 -> 2
+
+
+***
+> release 25-05-2025
+- bug fix la wither spawn
+- bug fixs battlepass week 3 missions
+- rework fisher
+- reopen la casino

@@ -776,3 +776,11 @@
 - reduced casino level required 5 -> 2
 - bug fix la dungeon boss reward
 - am adaugat /clan rank XP progress
+
+
+***
+> release 10-05-2025
+- daca ai socketXp si primesti 0 xp din el, acum o sa primesti 1 garantat
+- am reparat questul "Milker"
+- am adauagt eventuri noi(PlayerNormalShopSpentEvent, PlayerGoldShopSpentEvent, PlayerSuccessfullyResearchEvent etc)
+- am modificat BattlePass manager sa nu mai foloseasca cache(cea mai mare porcarie pe care am facut o cu cahce)

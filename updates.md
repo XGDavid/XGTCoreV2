@@ -820,3 +820,27 @@
 - bug fixs battlepass week 3 missions
 - rework fisher
 - reopen la casino
+
+
+***
+> alpha 2 07-02-2026
+- rescrisa toata baza de date din sqlite in mysql*
+- adaugam password si auth
+- rescrisa toata clasa Account*
+- rescris tot sitemul de Settings*
+- rescris tot sitemul de Log uri, separat logurile din Clan*
+- inceput reformat tot core ul, fiecare sistem sa aiba SystemListener in system foolder root(acum e in /events)
+- clean-up la defaults si multe fisiere, cod comentat, .old fisiere
+- am adaugat ReferralEvent, BonusCollectEvent, InboxReceiveEvent, InboxClaimEvent
+- am scos sa nu mai poti vedea logurile din joc, totul o sa fie pe panel
+- rescris tot sistemul de inbox*
+- rescris Shop ul, acum e pe MySQL*
+- am adaugat DailyStats(pentru a face Chart uri pe zile cu nr playeri  etc ca nu exista un API public pe net)
+- multe bug fix uri la casino*
+- adaugat Mines in casino*
+- rescris logica de la Quest-uri(acum se salveaza in baza de date)*
+- QoL la Auctions System(acum ai acelasi inventar, nu mai trebuie deschis non stop cand faci un change)*
+- am adaugat sa ti scoata un Afk Count cand te joci la Casino
+- am scos functiile legate de Factions din Teleport System si code bump
+- am scos functiile legate de Factions din Clan System si code bump
+- am mutat War ul in propriul sau System
